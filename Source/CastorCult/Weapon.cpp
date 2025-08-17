@@ -15,7 +15,11 @@ AWeapon::AWeapon()
 void AWeapon::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 20.f, FColor::Emerald, FString::Printf(TEXT("Hello, World")));
+	}
 }
 
 // Called every frame
