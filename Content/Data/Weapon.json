@@ -1,37 +1,80 @@
-{
-    "name": "Broken Labrys",
-    "rarity": "Common",
-    "type": "Two Handed Axe",
-    "properties": [
-        {
-            "name": "Physical Damage",
-            "values": "1 - 3",
-            "_commentValueMin": "1",
-            "_commentValueMax": "3"
-        },
-        {
-            "name": "Attacks Per Second",
-            "values": "1"
-        },
-        {
-            "name": "Critical Strike Chance",
-            "values": "0.1"
-        },
-        {
-            "name": "Critical Strike Multiplier",
-            "values": "2"
-        }
-    ],
-    "requirements": [
-        {
-            "name": "Level",
-            "values": "1"
-        },
-        {
-            "name": "Strength",
-            "values": "10"
-        }
-    ],
-    "mods":
-    []
-}
+[
+    {
+        "name": "Broken Labrys",
+        "rarity": "Common",
+        "type": "Two Handed Axe",
+        "properties": [
+            {
+                "name": "Physical Damage",
+                "values": "2 - 3",
+                "_commentValueMin": "2",
+                "_commentValueMax": "3"
+            },
+            {
+                "name": "Attacks Per Second",
+                "values": "1"
+            },
+            {
+                "name": "Critical Strike Chance",
+                "values": "0.1"
+            },
+            {
+                "name": "Critical Strike Multiplier",
+                "values": "2"
+            }
+        ],
+        "requirements": [
+            {
+                "name": "Level",
+                "values": "1"
+            },
+            {
+                "name": "Strength",
+                "values": "10"
+            }
+        ],
+        "mods":
+        []
+    },
+    {
+        "name": "Broken Claymore",
+        "rarity": "Common",
+        "type": "Two Handed Sword",
+        "properties": [
+            {
+                "name": "Physical Damage",
+                "values": "1 - 3",
+                "_commentValueMin": "1",
+                "_commentValueMax": "3"
+            },
+            {
+                "name": "Attacks Per Second",
+                "values": "1.5"
+            },
+            {
+                "name": "Critical Strike Chance",
+                "values": "0.15"
+            },
+            {
+                "name": "Critical Strike Multiplier",
+                "values": "1.5"
+            }
+        ],
+        "requirements": [
+            {
+                "name": "Level",
+                "values": "1"
+            },
+            {
+                "name": "Strength",
+                "values": "7"
+            },
+            {
+                "name": "Dexterity",
+                "values": "7"
+            }
+        ],
+        "mods":
+        []   
+    }
+]
