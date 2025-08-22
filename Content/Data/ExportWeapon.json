@@ -1,20 +1,20 @@
 [
 	{
 		"Name": "BrokenLabrys",
-		"ItemName": "",
-		"ItemRarity": "",
-		"ItemType": "",
-		"ItemProperties": "",
-		"ItemRequirements": "",
+		"ItemName": "Broken Labrys",
+		"ItemRarity": "Common",
+		"ItemType": "Two Handed Axe",
+		"ItemProperties": "{ Physical Damage : 2 - 4, Critical Strike Chance: 0.1, Critical Strike Multiplier: 2, Attacks Per Second: 1 }",
+		"ItemRequirements": "{ Level : 1, Strength : 10 }",
 		"ItemMods": ""
 	},
 	{
 		"Name": "BrokenClaymore",
-		"ItemName": "",
-		"ItemRarity": "",
-		"ItemType": "",
-		"ItemProperties": "",
-		"ItemRequirements": "",
+		"ItemName": "Broken Claymore",
+		"ItemRarity": "Common",
+		"ItemType": "Two Handed Sword",
+		"ItemProperties": "{ Physical Damage : 1 - 3, Critical Strike Chance: 0.15, Critical Strike Multiplier: 1.5, Attacks Per Second: 1.5 }",
+		"ItemRequirements": "{ Level : 1, Strength : 7, Dexterity: 7 }",
 		"ItemMods": ""
 	}
 ]
