@@ -11,17 +11,17 @@ struct FGenericWeaponInfo
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemName;
+	FString Name;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemRarity;
+	FString Rarity;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemType;
+	FString Type;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemProperties;
+	FString Properties;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemRequirements;
+	FString Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemMods;
+	FString Mods;
 };
 
 USTRUCT(BlueprintType)
@@ -29,17 +29,17 @@ struct FWeaponDataTable : public FTableRowBase
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemName;
+	FString Name;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemRarity;
+	FString Rarity;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemType;
+	FString Type;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemProperties;
+	FString Properties;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemRequirements;
+	FString Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString ItemMods;
+	FString Mods;
 };
 
 UCLASS()
