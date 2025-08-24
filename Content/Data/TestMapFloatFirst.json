@@ -1,0 +1,17 @@
+[
+	{
+		"Name": "NewRow",
+		"Rarity": "Common",
+		"Type": "Two Handed Axe",
+		"Properties":
+		{
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 3,
+			"Attacks Per Second": 1,
+			"Critical Strike Chance": 0.10000000149011612,
+			"Critical Strike Multiplier": 2
+		},
+		"Requirements": "",
+		"Mods": ""
+	}
+]
