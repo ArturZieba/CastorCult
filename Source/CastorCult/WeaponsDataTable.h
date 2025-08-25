@@ -19,9 +19,9 @@ struct FGenericWeaponInfo
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TMap<FString, float> Properties;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString Requirements;
+	TMap<FString, float> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString Mods;
+	TMap<FString, float> Mods;
 };
 
 USTRUCT(BlueprintType)
@@ -37,9 +37,9 @@ struct FWeaponDataTable : public FTableRowBase
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TMap<FString, float> Properties;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString Requirements;
+	TMap<FString, float> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString Mods;
+	TMap<FString, float> Mods;
 };
 
 UCLASS()
