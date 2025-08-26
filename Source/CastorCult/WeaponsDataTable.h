@@ -22,7 +22,7 @@ struct FGenericWeaponInfo
 	TMap<FString, float> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TMap<FString, float> Mods;
-};
+}; //Use enum for some variables?
 
 USTRUCT(BlueprintType)
 struct FWeaponDataTable : public FTableRowBase
@@ -40,7 +40,7 @@ struct FWeaponDataTable : public FTableRowBase
 	TMap<FString, float> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TMap<FString, float> Mods;
-};
+}; //Use enum for some variables?
 
 UCLASS()
 class CASTORCULT_API UWeaponsDataTable : public UDataTable
