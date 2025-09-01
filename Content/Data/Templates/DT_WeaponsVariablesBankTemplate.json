@@ -1,6 +1,7 @@
 [
 	{
 		"Name": "NewRow",
+		"TableName": "Test",
 		"Rarity": [
 			"Test"
 		],
