@@ -11,7 +11,7 @@ struct FWeaponsVariablesBankInfo
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString Name;
+	TArray<FString> Name;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TArray<FString> WeaponName;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
@@ -31,7 +31,7 @@ struct FWeaponVariablesBank : public FTableRowBase
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString Name;
+	TArray<FString> Name;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TArray<FString> WeaponName;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
