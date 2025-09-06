@@ -1,23 +1,29 @@
 [
 	{
-		"Name": "NewRow",
+		"Name": "WeaponsVariablesBank",
 		"WeaponName": [
-			"Test"
+			"Test",
+			"Test1"
 		],
 		"Rarity": [
-			"Test"
+			"Test",
+			"Test1"
 		],
 		"Type": [
-			"Test"
+			"Test",
+			"Test1"
 		],
 		"Properties": [
-			"Test"
+			"Test",
+			"Test1"
 		],
 		"Requirements": [
-			"Test"
+			"Test",
+			"Test1"
 		],
 		"Mods": [
-			"Test"
+			"Test",
+			"Test1"
 		]
 	}
 ]

@@ -1,68 +1,24 @@
 [
 	{
-		"Name": "Template Weapon",
-		"Rarity": "Template Rarity",
-		"Type": "Template Type",
+		"Name": "Test",
+		"WeaponName": "Test",
+		"Rarity": "Test",
+		"Type": "Test",
 		"Properties":
 		{
-			"Template Damage Minimum": 1,
-			"Template Damage Maximum": 2,
-			"Template Attacks Per Second": 1.5,
-			"Template Critical Strike Chance": 0.2,
-			"Template Critical Strike Damage": 1.5
+			"Test": 1,
+			"Test1": 3
 		},
 		"Requirements":
 		{
-			"Template Level": 1,
-			"Template Attribute": 10
+			"Test": 0.5,
+			"Test1": 1.5
 		},
 		"Mods":
 		{
-			"Template Mod Increased Attack Speed": 1.2,
-			"Template Mod Increased Damage": 1.5
-		}
-	},
-	{
-		"Name": "Broken Labrys",
-		"Rarity": "Common",
-		"Type": "Two Handed Axe",
-		"Properties":
-		{
-			"Physical Damage Minimum": 2,
-			"Physical Damage Maximum": 3,
-			"Attacks Per Second": 1,
-			"Critical Strike Chance": 0.1,
-			"Critical Strike Damage": 2
+			"Test": 0.1,
+			"Test1": 0.2
 		},
-		"Requirements":
-		{
-			"Level": 1,
-			"Strength": 10
-		},
-		"Mods":
-		{
-		}
-	},
-	{
-		"Name": "Broken Claymore",
-		"Rarity": "Common",
-		"Type": "Two Handed Sword",
-		"Properties":
-		{
-			"Physical Damage Minimum": 1,
-			"Physical Damage Maximum": 2,
-			"Attacks Per Second": 1.5,
-			"Critical Strike Chance": 0.2,
-			"Critical Strike Damage": 1.5
-		},
-		"Requirements":
-		{
-			"Level": 1,
-			"Strength": 7,
-			"Dexterity": 7
-		},
-		"Mods":
-		{
-		}
+		"ID": "Test"
 	}
 ]

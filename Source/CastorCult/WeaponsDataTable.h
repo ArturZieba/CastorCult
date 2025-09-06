@@ -11,7 +11,9 @@ struct FGenericWeaponInfo
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString Name;
+	FString  Name;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
+	FString  WeaponName;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	FString Rarity;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
@@ -22,7 +24,9 @@ struct FGenericWeaponInfo
 	TMap<FString, float> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TMap<FString, float> Mods;
-}; //Use enum for some variables?
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
+	FString ID;
+}; 
 
 USTRUCT(BlueprintType)
 struct FWeaponDataTable : public FTableRowBase
@@ -31,6 +35,8 @@ struct FWeaponDataTable : public FTableRowBase
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	FString Name;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
+	FString  WeaponName;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	FString Rarity;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	FString Type;
@@ -40,7 +46,9 @@ struct FWeaponDataTable : public FTableRowBase
 	TMap<FString, float> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TMap<FString, float> Mods;
-}; //Use enum for some variables?
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
+	FString ID;
+};
 
 UCLASS()
 class CASTORCULT_API UWeaponsDataTable : public UDataTable
