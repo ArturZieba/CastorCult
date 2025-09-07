@@ -1,0 +1,29 @@
+[
+	{
+		"Name": "WeaponsVariablesBank Change to RowName?",
+		"WeaponName": [
+			"Lumber Axe",
+			"Test1"
+		],
+		"Rarity": [
+			"Common",
+			"Test1"
+		],
+		"Type": [
+			"Two Handed Axe",
+			"Test1"
+		],
+		"Properties": [
+			"Physical Damage Minimum",
+			"Physical Damage Maximum"
+		],
+		"Requirements": [
+			"Level",
+			"Strength"
+		],
+		"Mods": [
+			"Test",
+			"Test1"
+		]
+	}
+]

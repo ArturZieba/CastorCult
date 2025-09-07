@@ -1,15 +1,13 @@
 [
 	{
-		"Name": "Broken Labrys",
+		"Name": "LumberAxe Change to RowName?",
+		"WeaponName": "Lumber Axe",
 		"Rarity": "Common",
 		"Type": "Two Handed Axe",
 		"Properties":
 		{
-			"Physical Damage Minimum": 2,
-			"Physical Damage Maximum": 3,
-			"Attacks Per Second": 1,
-			"Critical Strike Chance": 0.1,
-			"Critical Strike Damage": 2
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 3
 		},
 		"Requirements":
 		{
@@ -18,28 +16,7 @@
 		},
 		"Mods":
 		{
-		}
-	},
-	{
-		"Name": "Broken Claymore",
-		"Rarity": "Common",
-		"Type": "Two Handed Sword",
-		"Properties":
-		{
-			"Physical Damage Minimum": 1,
-			"Physical Damage Maximum": 2,
-			"Attacks Per Second": 1.5,
-			"Critical Strike Chance": 0.2,
-			"Critical Strike Damage": 1.5
 		},
-		"Requirements":
-		{
-			"Level": 1,
-			"Strength": 7,
-			"Dexterity": 7
-		},
-		"Mods":
-		{
-		}
+		"ID": "Test"
 	}
 ]
