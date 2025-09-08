@@ -1,17 +1,24 @@
 [
 	{
-		"Name": "WeaponsVariablesBank Change to RowName?",
+		"Name": "WeaponsVariablesBank",
 		"WeaponName": [
 			"Lumber Axe",
-			"Test1"
+			"Blunt Claymore",
+			"Lumber Hatchet",
+			"Blunt Longsword"
+			
 		],
 		"Rarity": [
 			"Common",
-			"Test1"
+			"Enchanted",
+			"Infused",
+			"Mythic"
 		],
 		"Type": [
 			"Two Handed Axe",
-			"Test1"
+			"Two Handed Sword",
+			"One Handed Axe",
+			"One Handed Sword"
 		],
 		"Properties": [
 			"Physical Damage Minimum",
@@ -19,11 +26,13 @@
 		],
 		"Requirements": [
 			"Level",
-			"Strength"
+			"Strength",
+			"Dexterity",
+			"Intelligence"
 		],
 		"Mods": [
-			"Test",
-			"Test1"
+			"Additional Physical Damage Minimum",
+			"Additional Physical Damage Maximum"
 		]
 	}
 ]
