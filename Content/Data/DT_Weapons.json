@@ -1,13 +1,16 @@
 [
 	{
-		"Name": "LumberAxe Change to RowName?",
+		"Name": "LumberAxe",
 		"WeaponName": "Lumber Axe",
 		"Rarity": "Common",
 		"Type": "Two Handed Axe",
 		"Properties":
 		{
 			"Physical Damage Minimum": 1,
-			"Physical Damage Maximum": 3
+			"Physical Damage Maximum": 3,
+			"Attacks Per Second": 1,
+			"Critical Strike Chance": 0.1,
+			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
