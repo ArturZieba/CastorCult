@@ -3,8 +3,10 @@
 		"Name": "WeaponsVariablesBank",
 		"WeaponName": [
 			"Lumber Axe",
+			"Sledgehammer",
 			"Blunt Claymore",
 			"Lumber Hatchet",
+			"Blacksmith Hammer",
 			"Blunt Longsword"
 			
 		],
@@ -16,13 +18,18 @@
 		],
 		"Type": [
 			"Two Handed Axe",
+			"Two Handed Hammer",
 			"Two Handed Sword",
 			"One Handed Axe",
+			"One Handed Hammer",
 			"One Handed Sword"
 		],
 		"Properties": [
 			"Physical Damage Minimum",
-			"Physical Damage Maximum"
+			"Physical Damage Maximum",
+			"Attacks Per Second",
+			"Critical Strike Chance",
+			"Critical Strike Multiplier"
 		],
 		"Requirements": [
 			"Level",
