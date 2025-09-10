@@ -21,5 +21,120 @@
 		{
 		},
 		"ID": "Test"
-	}
+	},
+	{
+		"Name": "Sledgehammer",
+		"WeaponName": "Sledgehammer",
+		"Rarity": "Common",
+		"Type": "Two Handed Hammer",
+		"Properties":
+		{
+			"Physical Damage Minimum": ,
+			"Physical Damage Maximum": ,
+			"Attacks Per Second": ,
+			"Critical Strike Chance": ,
+			"Critical Strike Multiplier": 
+		},
+		"Requirements":
+		{
+			"Level": ,
+			"Strength": 
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "BluntClaymore",
+		"WeaponName": "Blunt Claymore",
+		"Rarity": "Common",
+		"Type": "Two Handed Sword",
+		"Properties":
+		{
+			"Physical Damage Minimum": ,
+			"Physical Damage Maximum": ,
+			"Attacks Per Second": ,
+			"Critical Strike Chance": ,
+			"Critical Strike Multiplier": 
+		},
+		"Requirements":
+		{
+			"Level": ,
+			"Strength": 
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "LumberHatchet",
+		"WeaponName": "Lumber Hatchet",
+		"Rarity": "Common",
+		"Type": "One Handed Axe",
+		"Properties":
+		{
+			"Physical Damage Minimum": ,
+			"Physical Damage Maximum": ,
+			"Attacks Per Second": ,
+			"Critical Strike Chance": ,
+			"Critical Strike Multiplier": 
+		},
+		"Requirements":
+		{
+			"Level": ,
+			"Strength": 
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "BlacksmithHammer",
+		"WeaponName": "Blacksmith Hammer",
+		"Rarity": "Common",
+		"Type": "One Handed Hammer",
+		"Properties":
+		{
+			"Physical Damage Minimum": ,
+			"Physical Damage Maximum": ,
+			"Attacks Per Second": ,
+			"Critical Strike Chance": ,
+			"Critical Strike Multiplier": 
+		},
+		"Requirements":
+		{
+			"Level": ,
+			"Strength": 
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "BluntLongsword",
+		"WeaponName": "Blunt Longsword",
+		"Rarity": "Common",
+		"Type": "One Handed Sword",
+		"Properties":
+		{
+			"Physical Damage Minimum": ,
+			"Physical Damage Maximum": ,
+			"Attacks Per Second": ,
+			"Critical Strike Chance": ,
+			"Critical Strike Multiplier": 
+		},
+		"Requirements":
+		{
+			"Level": ,
+			"Strength": 
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
 ]
