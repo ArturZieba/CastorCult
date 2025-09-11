@@ -6,16 +6,17 @@
 		"Type": "Two Handed Axe",
 		"Properties":
 		{
-			"Physical Damage Minimum": 1,
-			"Physical Damage Maximum": 3,
-			"Attacks Per Second": 1,
+			"Physical Damage Minimum": 2,
+			"Physical Damage Maximum": 7,
+			"Attacks Per Second": 1.1,
 			"Critical Strike Chance": 0.1,
 			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 10
+			"Strength": 8,
+			"Dexterity": 2
 		},
 		"Mods":
 		{
@@ -29,16 +30,16 @@
 		"Type": "Two Handed Hammer",
 		"Properties":
 		{
-			"Physical Damage Minimum": ,
-			"Physical Damage Maximum": ,
-			"Attacks Per Second": ,
-			"Critical Strike Chance": ,
-			"Critical Strike Multiplier": 
+			"Physical Damage Minimum": 3,
+			"Physical Damage Maximum": 9,
+			"Attacks Per Second": 1,
+			"Critical Strike Chance": 0.05,
+			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
-			"Level": ,
-			"Strength": 
+			"Level": 1,
+			"Strength": 10
 		},
 		"Mods":
 		{
@@ -52,16 +53,17 @@
 		"Type": "Two Handed Sword",
 		"Properties":
 		{
-			"Physical Damage Minimum": ,
-			"Physical Damage Maximum": ,
-			"Attacks Per Second": ,
-			"Critical Strike Chance": ,
-			"Critical Strike Multiplier": 
+			"Physical Damage Minimum": 2,
+			"Physical Damage Maximum": 6,
+			"Attacks Per Second": 1.3,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
 			"Level": ,
-			"Strength": 
+			"Strength": 6,
+			"Dexterity": 4
 		},
 		"Mods":
 		{
@@ -75,16 +77,17 @@
 		"Type": "One Handed Axe",
 		"Properties":
 		{
-			"Physical Damage Minimum": ,
-			"Physical Damage Maximum": ,
-			"Attacks Per Second": ,
-			"Critical Strike Chance": ,
-			"Critical Strike Multiplier": 
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 4,
+			"Attacks Per Second": 1.35,
+			"Critical Strike Chance": 0.1,
+			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
-			"Level": ,
-			"Strength": 
+			"Level": 1,
+			"Strength": 5,
+			"Dexterity": 2
 		},
 		"Mods":
 		{
@@ -98,16 +101,16 @@
 		"Type": "One Handed Hammer",
 		"Properties":
 		{
-			"Physical Damage Minimum": ,
-			"Physical Damage Maximum": ,
-			"Attacks Per Second": ,
-			"Critical Strike Chance": ,
-			"Critical Strike Multiplier": 
+			"Physical Damage Minimum": 2,
+			"Physical Damage Maximum": 4,
+			"Attacks Per Second": 1.1,
+			"Critical Strike Chance": 0.05,
+			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
-			"Level": ,
-			"Strength": 
+			"Level": 1,
+			"Strength": 7
 		},
 		"Mods":
 		{
@@ -121,16 +124,17 @@
 		"Type": "One Handed Sword",
 		"Properties":
 		{
-			"Physical Damage Minimum": ,
-			"Physical Damage Maximum": ,
-			"Attacks Per Second": ,
-			"Critical Strike Chance": ,
-			"Critical Strike Multiplier": 
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 3,
+			"Attacks Per Second": 1.6,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
-			"Level": ,
-			"Strength": 
+			"Level": 1,
+			"Strength": 4,
+			"Dexterity": 3
 		},
 		"Mods":
 		{
