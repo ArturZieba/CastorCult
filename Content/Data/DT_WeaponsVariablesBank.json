@@ -5,10 +5,13 @@
 			"Lumber Axe",
 			"Sledgehammer",
 			"Blunt Claymore",
+			"Tattered Banner",
+			"Branch Staff",
 			"Lumber Hatchet",
 			"Blacksmith Hammer",
-			"Blunt Longsword"
-			
+			"Blunt Longsword",
+			"Musty Bell",
+			"Twig Wand"
 		],
 		"Rarity": [
 			"Common",
@@ -20,9 +23,13 @@
 			"Two Handed Axe",
 			"Two Handed Hammer",
 			"Two Handed Sword",
+			"Icon",
+			"Staff",		
 			"One Handed Axe",
 			"One Handed Hammer",
-			"One Handed Sword"
+			"One Handed Sword",
+			"Chime",
+			"Wand"
 		],
 		"Properties": [
 			"Physical Damage Minimum",
@@ -35,7 +42,8 @@
 			"Level",
 			"Strength",
 			"Dexterity",
-			"Intelligence"
+			"Intelligence",
+			"Endurance"
 		],
 		"Mods": [
 			"Additional Physical Damage Minimum",
