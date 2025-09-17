@@ -1,40 +1,59 @@
 # Weapons
 ## Related files
 - WeaponsDataTable.cpp/WeaponsDataTable.h
--- Contains test
+  - Contains test
 - WeaponsVariablesBank.cpp/WeaponsVariablesBank.h
--- Contains test
+  - Contains test
 - DT_Weapons.json/DT_Weapons.uasset
--- Contains test
+  - Contains test
 - DT_WeaponsVariablesBank.json/DT_WeaponsVariablesBank.uasset
--- Contains test
+  - Contains test
 
 ## Weapon list
 Two Handed Axes (Strength/Dexterity PH):
 - Lumber Axe
--- Test
+  - Test
 
 Two Handed Hammers (PH):
 - Sledgehammer
--- Test
+  - Test
 
 Two Handed Swords (PH):
 - Blunt Claymore
--- Test
+  - Test
+ 
+Icon (PH):
+- Tattered Banner
+  - Test
+
+Staff (PH):
+- Branch Staff
+  - Test
 
 One Handed Axes (PH):
 - Lumber Hatchet
--- Test
+  - Test
 
 One Handed Hammers (PH):
 - Blacksmith Hammer
--- Test
+  - Test
 
 One Handed Swords (PH):
 - Blunt Longsword
--- Test
+  - Test
+ 
+Chime (PH):
+- Musty Bell
+  - Test
+
+Wand (PH):
+- Twig Wand
+  - Test
 
 ## Weapon properties
+Test
+
+## Weapon requirements
 Test
 
 ## Weapon mods
