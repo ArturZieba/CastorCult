@@ -34,6 +34,8 @@
 		"Properties": [
 			"Physical Damage Minimum",
 			"Physical Damage Maximum",
+			"Holy Damage Minimum",
+			"Holy Damage Maximum",
 			"Attacks Per Second",
 			"Critical Strike Chance",
 			"Critical Strike Multiplier"
@@ -43,6 +45,7 @@
 			"Strength",
 			"Dexterity",
 			"Intelligence",
+			"Faith",
 			"Endurance"
 		],
 		"Mods": [
