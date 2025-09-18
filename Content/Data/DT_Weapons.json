@@ -71,6 +71,55 @@
 		"ID": "Test"
 	},
 	{
+		"Name": "TatteredBanner",
+		"WeaponName": "Tattered Banner",
+		"Rarity": "Common",
+		"Type": "Icon",
+		"Properties":
+		{
+			"Holy Damage Minimum": 2,
+			"Holy Damage Maximum": 6,
+			"Attacks Per Second": 1,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 6,
+			"Faith": 4,
+			"Endurance": 2
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "BranchStaff",
+		"WeaponName": "Branch Staff",
+		"Rarity": "Common",
+		"Type": "Staff",
+		"Properties":
+		{
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 5,
+			"Attacks Per Second": 1.2,
+			"Critical Strike Chance": 0.1,
+			"Critical Strike Multiplier": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 3,
+			"Intelligence": 6
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
 		"Name": "LumberHatchet",
 		"WeaponName": "Lumber Hatchet",
 		"Rarity": "Common",
@@ -135,6 +184,52 @@
 			"Level": 1,
 			"Strength": 4,
 			"Dexterity": 3
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "MustyBell",
+		"WeaponName": "Musty Bell",
+		"Rarity": "Common",
+		"Type": "Chime",
+		"Properties":
+		{
+			"Holy Damage Minimum": 1,
+			"Holy Damage Maximum": 3,
+			"Attacks Per Second": 1.6,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Faith": 5
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+		{
+		"Name": "TwigWand",
+		"WeaponName": "Twig Wand",
+		"Rarity": "Common",
+		"Type": "Wand",
+		"Properties":
+		{
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 2,
+			"Attacks Per Second": 1.6,
+			"Critical Strike Chance": 0.1,
+			"Critical Strike Multiplier": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Intelligence": 5
 		},
 		"Mods":
 		{
