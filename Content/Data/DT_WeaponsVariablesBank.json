@@ -48,7 +48,9 @@
 			"Holy Damage Maximum",
 			"Attacks Per Second",
 			"Critical Strike Chance",
-			"Critical Strike Multiplier"
+			"Critical Strike Multiplier",
+			"Armour",
+			"Block Chance"
 		],
 		"Requirements": [
 			"Level",

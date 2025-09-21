@@ -71,6 +71,80 @@
 		"ID": "Test"
 	},
 	{
+		"Name": "RottedArbalest",
+		"WeaponName": "Rotted Arbalest",
+		"Rarity": "Common",
+		"Type": "Arbalest",
+		"Properties":
+		{
+			"Physical Damage Minimum": 5,
+			"Physical Damage Maximum": 10,
+			"Attacks Per Second": 0.5,
+			"Critical Strike Chance": 0.3,
+			"Critical Strike Multiplier": 3
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 4,
+			"Dexterity": 4,
+			"Endurance": 4
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "Shortbow",
+		"WeaponName": "Shortbow",
+		"Rarity": "Common",
+		"Type": "Bow",
+		"Properties":
+		{
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 3,
+			"Attacks Per Second": 1.5,
+			"Critical Strike Chance": 0.1,
+			"Critical Strike Multiplier": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Dexterity": 8
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "BarnDoor",
+		"WeaponName": "Barn Door",
+		"Rarity": "Common",
+		"Type": "Greatshield",
+		"Properties":
+		{
+			"Physical Damage Minimum": 3,
+			"Physical Damage Maximum": 8,
+			"Attacks Per Second": 1,
+			"Critical Strike Chance": 0.05,
+			"Critical Strike Multiplier": 2,
+			"Armour": 3,
+			"Block Chance": 0.3
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 6,
+			"Endurance": 6
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
 		"Name": "TatteredBanner",
 		"WeaponName": "Tattered Banner",
 		"Rarity": "Common",
@@ -207,6 +281,57 @@
 		{
 			"Level": 1,
 			"Faith": 5
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "OldCrossbow",
+		"WeaponName": "Old Crossbow",
+		"Rarity": "Common",
+		"Type": "Crossbow",
+		"Properties":
+		{
+			"Physical Damage Minimum": 2,
+			"Physical Damage Maximum": 5,
+			"Attacks Per Second": 1,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 3,
+			"Dexterity": 4,
+			"Endurance": 2
+		},
+		"Mods":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "WoodenTarge",
+		"WeaponName": "Wooden Targe",
+		"Rarity": "Common",
+		"Type": "Shield",
+		"Properties":
+		{
+			"Physical Damage Minimum": 1,
+			"Physical Damage Maximum": 3,
+			"Attacks Per Second": 1.5,
+			"Critical Strike Chance": 0.05,
+			"Critical Strike Multiplier": 2,
+			"Armour": 1,
+			"Block Chance": 0.2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 3,
+			"Endurance": 3
 		},
 		"Mods":
 		{
