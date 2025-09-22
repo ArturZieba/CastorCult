@@ -22,6 +22,18 @@ Two Handed Swords (PH):
 - Blunt Claymore
   - Test
  
+Arbalests (PH):
+- Rotted Arbalest
+  - Test
+ 
+Bows (PH):
+- Shortbow
+  - Test
+
+Greatshields (PH):
+- Barn Door
+  - Test
+ 
 Icon (PH):
 - Tattered Banner
   - Test
@@ -44,6 +56,14 @@ One Handed Swords (PH):
  
 Chime (PH):
 - Musty Bell
+  - Test
+ 
+Crossbows (PH):
+- Old Crossbow
+  - Test
+ 
+Shields (PH):
+- Wooden Targe
   - Test
 
 Wand (PH):
