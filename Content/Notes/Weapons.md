@@ -1,24 +1,70 @@
 # Weapons
 ## Related files
 - WeaponsDataTable.cpp/WeaponsDataTable.h
-  - Contains test
+  - Contains struct for the DT_Weapons.uasset.
 - WeaponsVariablesBank.cpp/WeaponsVariablesBank.h
-  - Contains test
+  - Contains struct for the DT_WeaponsVariablesBank.uasset.
 - DT_Weapons.json/DT_Weapons.uasset
-  - Contains test
+  - Contains a list of weapons with all of their asociated variables.
 - DT_WeaponsVariablesBank.json/DT_WeaponsVariablesBank.uasset
-  - Contains test
+  - Contains a list of variables that can be used in weapons.
+
+## Weapon types
+Two Handed Axes (Medium Strength/Low Dexterity/Medium Endurance):
+- Average speed, variable high damage, average criticals.
+
+Two Handed Hammers (High Strength/High Endurance):
+- Slow, consistent high damage, average criticals.
+
+Two Handed Swords (Low Strength/Medium Dexterity/Low Endurance):
+- Fast, average damage, high criticals.
+ 
+Arbalests (PH):
+- 
+ 
+Bows (PH):
+- 
+
+Greatshields (PH):
+- 
+ 
+Icon (PH):
+- 
+
+Staff (PH):
+- 
+
+One Handed Axes (PH):
+- 
+
+One Handed Hammers (PH):
+- 
+
+One Handed Swords (PH):
+- 
+ 
+Chime (PH):
+- 
+ 
+Crossbows (PH):
+- 
+ 
+Shields (PH):
+- 
+
+Wand (PH):
+- 
 
 ## Weapon list
-Two Handed Axes (Strength/Dexterity PH):
+Two Handed Axes (Medium Strength/Low Dexterity/Medium Endurance):
 - Lumber Axe
   - Test
 
-Two Handed Hammers (PH):
+Two Handed Hammers (High Strength/High Endurance):
 - Sledgehammer
   - Test
 
-Two Handed Swords (PH):
+Two Handed Swords (Low Strength/Medium Dexterity/Low Endurance):
 - Blunt Claymore
   - Test
  
