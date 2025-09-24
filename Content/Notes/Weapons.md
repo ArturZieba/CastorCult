@@ -11,28 +11,30 @@
 
 ## Weapon types
 Two Handed Axes (Medium Strength/Low Dexterity/Medium Endurance):
-- Average speed, variable high damage, average criticals.
+- Medium speed, variable high damage, physical damage type by default, medium criticals.
 
 Two Handed Hammers (High Strength/High Endurance):
-- Slow, consistent high damage, average criticals.
+- Slow, consistent high damage, physical damage type by default, medium criticals.
 
 Two Handed Swords (Low Strength/Medium Dexterity/Low Endurance):
-- Fast, average damage, high criticals.
+- Fast, medium damage, physical damage type by default, high criticals.
  
-Arbalests (PH):
-- 
+Arbalests (High Strength/Low Dexterity/High Endurance):
+- Very slow, consistent very high damage, physical damage type by default, high criticals.
  
-Bows (PH):
-- 
+Bows (Low Strength/High Dexterity):
+- Fast, consistent low damage, physical damage type by default, high criticals.
 
-Greatshields (PH):
-- 
+Greatshields (High Strength/High Endurance):
+- Very slow, consistent medium damage, physical damage type by default, low criticals, implicit defensive stats (block chance, armour).
  
-Icon (PH):
-- 
+Icon (High Faith/Low Endurance):
+- Slow, consistent medium damage, holy damage type by default, medium criticals.
+- Add some built in scaling for buff/healing?
 
-Staff (PH):
-- 
+Staff (High Intelligence/Low Endurance):
+- Slow, consistent medium damage, physical damage type by default, medium criticals.
+- Add some built in scaling for spells?
 
 One Handed Axes (PH):
 - 
@@ -43,14 +45,14 @@ One Handed Hammers (PH):
 One Handed Swords (PH):
 - 
  
-Chime (PH):
+Chime (High Faith):
 - 
  
 Crossbows (PH):
 - 
  
 Shields (PH):
-- 
+- Very slow, consistent low damage, low criticals, implicit defensive stats (block chance, armour).
 
 Wand (PH):
 - 
