@@ -14,16 +14,16 @@ Two Handed Axes (Medium Strength/Low Dexterity/Medium Endurance):
 - Medium speed, variable high damage, physical damage type by default, medium criticals.
 
 Two Handed Hammers (High Strength/High Endurance):
-- Slow, consistent high damage, physical damage type by default, medium criticals.
+- Very slow, consistent very high damage, physical damage type by default, medium criticals.
 
 Two Handed Swords (Low Strength/Medium Dexterity/Low Endurance):
-- Fast, medium damage, physical damage type by default, high criticals.
+- Fast, consistent medium damage, physical damage type by default, high criticals.
  
 Arbalests (High Strength/Low Dexterity/High Endurance):
 - Very slow, consistent very high damage, physical damage type by default, high criticals.
  
 Bows (Low Strength/High Dexterity):
-- Fast, consistent low damage, physical damage type by default, high criticals.
+- Fast, variable low damage, physical damage type by default, high criticals.
 
 Greatshields (High Strength/High Endurance):
 - Very slow, consistent medium damage, physical damage type by default, low criticals, implicit defensive stats (block chance, armour).
@@ -33,29 +33,31 @@ Icon (High Faith/Low Endurance):
 - Add some built in scaling for buff/healing?
 
 Staff (High Intelligence/Low Endurance):
-- Slow, consistent medium damage, physical damage type by default, medium criticals.
+- Slow, variable medium damage, physical damage type by default, medium criticals.
 - Add some built in scaling for spells?
 
-One Handed Axes (PH):
-- 
+One Handed Axes (Medium Strength/Low Dexterity):
+- Fast, variable medium damage, physical damage type by default, medium criticals.
 
-One Handed Hammers (PH):
-- 
+One Handed Hammers (Medium Strength/Medium Endurance):
+- Slow, consistent high damage, physical damage type by default, medium criticals.
 
-One Handed Swords (PH):
-- 
+One Handed Swords (Low Strength/Medium Dexterity):
+- Very fast, consistent low damage, physical damage type by default, high criticals.
  
 Chime (High Faith):
-- 
+- Medium speed, consistent low damage, holy damage type by default, medium criticals.
+- Add some built in scaling for buff/healing?
  
-Crossbows (PH):
-- 
+Crossbows (Low Strength/Low Dexterity/Low Endurance):
+- Slow, consistent high damage, physical damage type by default, high criticals.
  
 Shields (PH):
 - Very slow, consistent low damage, low criticals, implicit defensive stats (block chance, armour).
 
-Wand (PH):
-- 
+Wand (High Intelligence):
+- Medium speed, variable low damage, physical damage type by default, medium criticals.
+- Add some built in scaling for spells?
 
 ## Weapon list
 Two Handed Axes (Medium Strength/Low Dexterity/Medium Endurance):
