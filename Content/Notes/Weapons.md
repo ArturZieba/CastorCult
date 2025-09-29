@@ -73,52 +73,52 @@ Two Handed Swords (Low Strength/Medium Dexterity/Low Endurance):
   - Claymore with blunted blade used for training.
  
 Arbalests (High Strength/Low Dexterity/High Endurance):
-- Rotted Arbalest (T1)
-  - Test
+- Rotten Arbalest (T1)
+  - An old arbalest, seemingly exposed to the elements for a long time.
  
 Bows (Low Strength/High Dexterity):
 - Shortbow (T1)
-  - Test
+  - Simple bow used for training.
 
 Greatshields (High Strength/High Endurance):
 - Barn Door (T1)
-  - Test
+  - Door removed from hinges, used as a makeshift cover.
  
 Icons (High Faith/Low Endurance):
 - Tattered Banner (T1)
-  - Test
+  - An old banner, icon on the fabric seemingly lost to time.
 
 Staves (High Intelligence/Low Endurance):
 - Branch Staff (T1)
-  - Test
+  - A simple tree branch that can be used as a magic catalyst.
 
 One Handed Axes (Medium Strength/Low Dexterity):
 - Lumber Hatchet (T1)
-  - Test
+  - Small hatchet used for cutting wood.
 
 One Handed Hammers (Medium Strength/Medium Endurance):
 - Blacksmith Hammer (T1)
-  - Test
+  - A hammer used by blacksmiths to shape metal in forges.
 
 One Handed Swords (Low Strength/Medium Dexterity):
 - Blunt Longsword (T1)
-  - Test
+  - Longsword with blunted blade used for training.
  
 Chimes (High Faith):
 - Musty Bell (T1)
-  - Test
+  - Small old bell.
  
 Crossbows (Low Strength/Low Dexterity/Low Endurance):
 - Old Crossbow (T1)
-  - Test
+  - An old crossbow with a worn string.
  
 Shields (Low Strength/High Endurance):
 - Wooden Targe (T1)
-  - Test
+  - Few planks reinforced with nails and a handle, cut to a round shape.
 
 Wands (High Intelligence):
 - Twig Wand (T1)
-  - Test
+  - A small twig used as a magic catalyst.
 
 ## Weapon properties
 Test
