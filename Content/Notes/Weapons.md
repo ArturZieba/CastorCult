@@ -121,10 +121,46 @@ Wands (High Intelligence):
   - A small twig used as a magic catalyst.
 
 ## Weapon properties
-Test
+- Physical Damage Minimum/Maximum
+  - Test
+
+- Holy Damage Minimum/Maximum
+  - Test
+
+- Attacks Per Second
+  - Test
+
+- Critical Strike Chance
+  - Test
+
+- Critical Strike Multiplier
+  - Test
+
+- Armour
+  - Test
+
+- Block Chance
+  - Test
 
 ## Weapon requirements
-Test
+- Level
+  - Test
+
+- Strength
+  - Test
+
+- Dexterity
+  - Test
+
+- Intelligence
+  - Test
+
+- Faith
+  - Test
+
+- Endurance
+  - Test
 
 ## Weapon mods
-Test
+- Additional Physical Damage Minimum/Maximum
+  - Test
