@@ -144,22 +144,22 @@ Wands (High Intelligence):
 
 ## Weapon requirements
 - Level
-  - Test
+  - An experience level cap to prevent low level classes from using high stat items (Maybe not needed with attribute distribution?)
 
 - Strength
-  - Test
+  - Stat required for picking up and using bigger weapons, mostly focused on melee.
 
 - Dexterity
-  - Test
+  - Stat required for more swift weapons that would require precision to use.
 
 - Intelligence
-  - Test
+  - Stat required mostly for weapons related to magic use.
 
 - Faith
-  - Test
+  - Stat required mostly for weapons related to healing/buffing.
 
 - Endurance
-  - Test
+  - Stat required for heavy weapons and armour that would have to be held for extended period of time, such as arbalests or shields.
 
 ## Weapon mods
 - Additional Physical Damage Minimum/Maximum
