@@ -122,13 +122,13 @@
 
 ## Weapon properties
 ### Physical Damage Minimum/Maximum
-- Test
+- Integer value indicating minimum and maximum damage roll range of physical damage. Armour mitigates a portion of physical damage.
 
 ### Holy Damage Minimum/Maximum
-- Test
+- Integer value indicating minimum and maximum damage roll range of holy damage.
 
 ### Attacks Per Second
-- Test
+- Float value indicating base attack speed of the weapon, lower value means slower, higher value means faster. For example: 1.0 = 1 attack each second, 0.5 = half of an attack each second (1 attack each 2 seconds), 2.0 = 2 attacks each second (1 attack each 0.5 second).
 
 ### Critical Strike Chance
 - Test
@@ -137,7 +137,7 @@
 - Test
 
 ### Armour
-- Test
+- Integer value indicating armour amount. Each point of armour reduces physcial damage by that amount, but to no less than 1. For example: 1 Armour will reduce 10 physical damage hit to 9 (10 - 1 = 9), 11 Armour will reduce 10 physical damage hit to 1 (10 - 11 = -1, however physical damage cannot be reduced to less than 1 by Armour).
 
 ### Block Chance
 - Test
