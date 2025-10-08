@@ -122,22 +122,26 @@
 
 ## Weapon properties
 ### Physical Damage Minimum/Maximum
-- Integer value indicating minimum and maximum damage roll range of physical damage. Armour mitigates a portion of physical damage.
+- Integer value indicating Minimum and Maximum damage roll range of Physical Damage. Armour mitigates a portion of Physical Damage.
 
 ### Holy Damage Minimum/Maximum
-- Integer value indicating minimum and maximum damage roll range of holy damage.
+- Integer value indicating Minimum and Maximum Damage roll range of Holy Damage.
 
 ### Attacks Per Second
-- Float value indicating base attack speed of the weapon, lower value means slower, higher value means faster. For example: 1.0 = 1 attack each second, 0.5 = half of an attack each second (1 attack each 2 seconds), 2.0 = 2 attacks each second (1 attack each 0.5 second).
+- Float value indicating base Attacks Per Second of the weapon, lower value means slower, higher value means faster.
+ - For example: 1.0 = 1 attack each second, 0.5 = half of an attack each second (1 attack each 2 seconds), 2.0 = 2 attacks each second (1 attack each 0.5 second).
 
 ### Critical Strike Chance
-- Test
+- Float value indicating weapon's base chance to deal a Critical Strike which deals damage multiplied by total Critical Strike Multiplier. Lower value means lower chance, higher value means higher chance, but no more than 1.
+ - For example: 0 = 0% chance for Critical Strike (no chance for Critical Strike), 0.1 = 10% chance for Critical Strike (on average 1 in 10 hits are Critical Strikes), 1 = 100% chance for Critical Strike (every hit is a Critical Strike). (!!!PH!!!) Random geneneration to be determined but expected to have no entropy/safeguards etc., so on 10% chance it would be possible to go more than 10 hits with no Critical Strike or have more than 1 Critical Srike over 10 hits.
 
 ### Critical Strike Multiplier
-- Test
+- Float value indicating weapon's base Critical Strike Multiplier, a value by which the damage is multiplied when dealing a Critical Strike. Lower value means lower multiplier, higher value means higher multiplier. Damage is rounded down in case the resulting value is a fraction.
+ - For example: For hit dealing 15 damage - 1.5 = 150% Critical Strike Multiplier (15 * 1.5 = 22.5 rounded down = 22), 2 = 200% Critical Strike Multiplier (15 * 2 = 30), 0.5 = 50% Critical Strike Multiplier (15 * 0.5 = 7.5 rounded down = 7), 1 = 100% Critical Strike Multiplier (15 * 1 = 15, no change). 
 
 ### Armour
-- Integer value indicating armour amount. Each point of armour reduces physcial damage by that amount, but to no less than 1. For example: 1 Armour will reduce 10 physical damage hit to 9 (10 - 1 = 9), 11 Armour will reduce 10 physical damage hit to 1 (10 - 11 = -1, however physical damage cannot be reduced to less than 1 by Armour).
+- Integer value indicating Armour amount. Each point of armour reduces physcial damage by that amount, but to no less than 1.
+ - For example: 1 Armour will reduce 10 physical damage hit to 9 (10 - 1 = 9), 11 Armour will reduce 10 physical damage hit to 1 (10 - 11 = -1, however physical damage cannot be reduced to less than 1 by Armour).
 
 ### Block Chance
 - Test
