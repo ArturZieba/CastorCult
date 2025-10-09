@@ -133,7 +133,8 @@
 
 ### Critical Strike Chance
 - Float value indicating weapon's base chance to deal a Critical Strike which deals damage multiplied by total Critical Strike Multiplier. Lower value means lower chance, higher value means higher chance, but no more than 1.
- - For example: 0 = 0% chance for Critical Strike (no chance for Critical Strike), 0.1 = 10% chance for Critical Strike (on average 1 in 10 hits are Critical Strikes), 1 = 100% chance for Critical Strike (every hit is a Critical Strike). (!!!PH!!!) Random geneneration to be determined but expected to have no entropy/safeguards etc., so on 10% chance it would be possible to go more than 10 hits with no Critical Strike or have more than 1 Critical Srike over 10 hits.
+ - For example: 0 = 0% chance for Critical Strike (no chance for Critical Strike), 0.1 = 10% chance for Critical Strike (on average 1 in 10 hits are Critical Strikes), 1 = 100% chance for Critical Strike (every hit is a Critical Strike).
+ - (!!!PH!!!) Random geneneration to be determined but expected to have no entropy/safeguards etc., so on 10% chance it would be possible to go more than 10 hits with no Critical Strike or have more than 1 Critical Srike over 10 hits.
 
 ### Critical Strike Multiplier
 - Float value indicating weapon's base Critical Strike Multiplier, a value by which the damage is multiplied when dealing a Critical Strike. Lower value means lower multiplier, higher value means higher multiplier. Damage is rounded down in case the resulting value is a fraction.
@@ -144,7 +145,9 @@
  - For example: 1 Armour will reduce 10 physical damage hit to 9 (10 - 1 = 9), 11 Armour will reduce 10 physical damage hit to 1 (10 - 11 = -1, however physical damage cannot be reduced to less than 1 by Armour).
 
 ### Block Chance
-- Test
+- Float value indicating weapon's base Block Chance. Blocking a hit causes it to deal no damage. Lower value means lower chance, higher value means higher chance, however exceeding value 0.9 does nothing.
+ - For example: 0 = 0% Block Chance (no chance to Block incoming hits), 0.1 = 10% Block Chance (on average 1 in 10 received hits are Blocked), 1 = 100% Block Chance (on average 9 in 10 received hits are Blocked, as Block Chance cannot exceed value over 0.9).
+ - (!!!PH!!!) Random geneneration to be determined but expected to have no entropy/safeguards etc., so on 10% chance it would be possible to go more than 10 received hits with no Block or have more than 1 Block over 10 received hits.
 
 ## Weapon requirements
 ### Level
