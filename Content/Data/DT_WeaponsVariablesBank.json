@@ -41,7 +41,7 @@
 			"Shield",
 			"Wand"
 		],
-		"Properties": [
+		"BaseStats": [
 			"Physical Damage Minimum",
 			"Physical Damage Maximum",
 			"Holy Damage Minimum",
@@ -60,7 +60,7 @@
 			"Faith",
 			"Endurance"
 		],
-		"Mods": [
+		"Enchantments": [
 			"Additional Physical Damage Minimum",
 			"Additional Physical Damage Maximum"
 		]

@@ -19,11 +19,11 @@ struct FWeaponsVariablesBankInfo
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TArray<FString> Type;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	TArray<FString> Properties;
+	TArray<FString> BaseStats;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TArray<FString> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	TArray<FString> Mods;
+	TArray<FString> Enchantments;
 };
 
 USTRUCT(BlueprintType)
@@ -39,11 +39,11 @@ struct FWeaponVariablesBank : public FTableRowBase
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TArray<FString> Type;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	TArray<FString> Properties;
+	TArray<FString> BaseStats;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	TArray<FString> Requirements;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	TArray<FString> Mods;
+	TArray<FString> Enchantments;
 };
 
 UCLASS()

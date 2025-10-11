@@ -120,7 +120,7 @@
 - Twig Wand (T1)
   - A small twig used as a magic catalyst.
 
-## Weapon properties (!!!PH!!!) change name of this and mods?
+## Weapon base stats
 ### Physical Damage Minimum/Maximum
 - Integer value indicating Minimum and Maximum damage roll range of base Physical Damage on the weapon. Armour mitigates a portion of Physical Damage.
 
@@ -168,7 +168,7 @@
 ### Endurance
 - Stat required for heavy weapons and armour that would have to be held for extended period of time, such as arbalests or shields.
 
-## Weapon mods (!!!PH!!!) change name of this and properties?
+## Weapon enchantments
 ### Additional Physical Damage Minimum/Maximum
 - Integer value indicating Minimum and Maximum damage roll range of Additional Physical Damage that is added on top of the base weapon's Physical Damage. If a weapon has no base Physical Damage the Additional Physical Damage is still added.
   - For example: A weapon has 5 Minimum Physical Damage and 10 Maximum Physical Damage - with Additional 2 Minimum Physical Damage and Additional 4 Maximum Physical Damage it will have 5 + 2 = 7 Minimum Physical Damage and 10 + 4 = 14 Maximum Physical Damage, A weapon has no Minimum or Maximum Physical Damage - with Additional 2 Minimum Physical Damage and Additional 4 Maximum Physical Damage it will have 0 + 2 = 2 Minimum Physical Damage and 0 + 4 = 4 Maximum Physical Damage.  

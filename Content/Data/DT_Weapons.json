@@ -4,7 +4,7 @@
 		"WeaponName": "Lumber Axe",
 		"Rarity": "Common",
 		"Type": "Two Handed Axe",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 2,
 			"Physical Damage Maximum": 7,
@@ -18,7 +18,7 @@
 			"Strength": 8,
 			"Dexterity": 2
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -28,7 +28,7 @@
 		"WeaponName": "Sledgehammer",
 		"Rarity": "Common",
 		"Type": "Two Handed Hammer",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 3,
 			"Physical Damage Maximum": 9,
@@ -41,7 +41,7 @@
 			"Level": 1,
 			"Strength": 10
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -51,7 +51,7 @@
 		"WeaponName": "Blunt Claymore",
 		"Rarity": "Common",
 		"Type": "Two Handed Sword",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 2,
 			"Physical Damage Maximum": 6,
@@ -65,7 +65,7 @@
 			"Strength": 6,
 			"Dexterity": 4
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -75,7 +75,7 @@
 		"WeaponName": "Rotted Arbalest",
 		"Rarity": "Common",
 		"Type": "Arbalest",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 5,
 			"Physical Damage Maximum": 10,
@@ -90,7 +90,7 @@
 			"Dexterity": 4,
 			"Endurance": 4
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -100,7 +100,7 @@
 		"WeaponName": "Shortbow",
 		"Rarity": "Common",
 		"Type": "Bow",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 1,
 			"Physical Damage Maximum": 3,
@@ -113,7 +113,7 @@
 			"Level": 1,
 			"Dexterity": 8
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -123,7 +123,7 @@
 		"WeaponName": "Barn Door",
 		"Rarity": "Common",
 		"Type": "Greatshield",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 3,
 			"Physical Damage Maximum": 8,
@@ -139,7 +139,7 @@
 			"Strength": 6,
 			"Endurance": 6
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -149,7 +149,7 @@
 		"WeaponName": "Tattered Banner",
 		"Rarity": "Common",
 		"Type": "Icon",
-		"Properties":
+		"BaseStats":
 		{
 			"Holy Damage Minimum": 2,
 			"Holy Damage Maximum": 6,
@@ -164,7 +164,7 @@
 			"Faith": 4,
 			"Endurance": 2
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -174,7 +174,7 @@
 		"WeaponName": "Branch Staff",
 		"Rarity": "Common",
 		"Type": "Staff",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 1,
 			"Physical Damage Maximum": 5,
@@ -188,7 +188,7 @@
 			"Strength": 3,
 			"Intelligence": 6
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -198,7 +198,7 @@
 		"WeaponName": "Lumber Hatchet",
 		"Rarity": "Common",
 		"Type": "One Handed Axe",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 1,
 			"Physical Damage Maximum": 4,
@@ -212,7 +212,7 @@
 			"Strength": 5,
 			"Dexterity": 2
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -222,7 +222,7 @@
 		"WeaponName": "Blacksmith Hammer",
 		"Rarity": "Common",
 		"Type": "One Handed Hammer",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 2,
 			"Physical Damage Maximum": 4,
@@ -235,7 +235,7 @@
 			"Level": 1,
 			"Strength": 7
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -245,7 +245,7 @@
 		"WeaponName": "Blunt Longsword",
 		"Rarity": "Common",
 		"Type": "One Handed Sword",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 1,
 			"Physical Damage Maximum": 3,
@@ -259,7 +259,7 @@
 			"Strength": 4,
 			"Dexterity": 3
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -269,7 +269,7 @@
 		"WeaponName": "Musty Bell",
 		"Rarity": "Common",
 		"Type": "Chime",
-		"Properties":
+		"BaseStats":
 		{
 			"Holy Damage Minimum": 1,
 			"Holy Damage Maximum": 3,
@@ -282,7 +282,7 @@
 			"Level": 1,
 			"Faith": 5
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -292,7 +292,7 @@
 		"WeaponName": "Old Crossbow",
 		"Rarity": "Common",
 		"Type": "Crossbow",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 2,
 			"Physical Damage Maximum": 5,
@@ -307,7 +307,7 @@
 			"Dexterity": 4,
 			"Endurance": 2
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -317,7 +317,7 @@
 		"WeaponName": "Wooden Targe",
 		"Rarity": "Common",
 		"Type": "Shield",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 1,
 			"Physical Damage Maximum": 3,
@@ -333,7 +333,7 @@
 			"Strength": 3,
 			"Endurance": 3
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
@@ -343,7 +343,7 @@
 		"WeaponName": "Twig Wand",
 		"Rarity": "Common",
 		"Type": "Wand",
-		"Properties":
+		"BaseStats":
 		{
 			"Physical Damage Minimum": 1,
 			"Physical Damage Maximum": 2,
@@ -356,7 +356,7 @@
 			"Level": 1,
 			"Intelligence": 5
 		},
-		"Mods":
+		"Enchantments":
 		{
 		},
 		"ID": "Test"
