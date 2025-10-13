@@ -6,17 +6,18 @@
 		"Type": "Two Handed Axe",
 		"BaseStats":
 		{
-			"Physical Damage Minimum": 2,
-			"Physical Damage Maximum": 7,
-			"Attacks Per Second": 1.1,
-			"Critical Strike Chance": 0.1,
-			"Critical Strike Multiplier": 2
+			"Physical Damage Minimum": 3,
+			"Physical Damage Maximum": 8,
+			"Attacks Per Second": 1.2,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 1.5
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 8,
-			"Dexterity": 2
+			"Strength": 4,
+			"Dexterity": 2,
+			"Endurance": 4
 		},
 		"Enchantments":
 		{
@@ -30,16 +31,17 @@
 		"Type": "Two Handed Hammer",
 		"BaseStats":
 		{
-			"Physical Damage Minimum": 3,
-			"Physical Damage Maximum": 9,
-			"Attacks Per Second": 1,
-			"Critical Strike Chance": 0.05,
-			"Critical Strike Multiplier": 2
+			"Physical Damage Minimum": 9,
+			"Physical Damage Maximum": 11,
+			"Attacks Per Second": 0.5,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 1.5
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 10
+			"Strength": 6,
+			"Endurance": 6
 		},
 		"Enchantments":
 		{
@@ -55,15 +57,16 @@
 		{
 			"Physical Damage Minimum": 2,
 			"Physical Damage Maximum": 6,
-			"Attacks Per Second": 1.3,
-			"Critical Strike Chance": 0.2,
+			"Attacks Per Second": 1.5,
+			"Critical Strike Chance": 0.3,
 			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 6,
-			"Dexterity": 4
+			"Strength": 3,
+			"Dexterity": 4,
+			"Endurance": 2
 		},
 		"Enchantments":
 		{
@@ -77,18 +80,18 @@
 		"Type": "Arbalest",
 		"BaseStats":
 		{
-			"Physical Damage Minimum": 5,
+			"Physical Damage Minimum": 8,
 			"Physical Damage Maximum": 10,
 			"Attacks Per Second": 0.5,
 			"Critical Strike Chance": 0.3,
-			"Critical Strike Multiplier": 3
+			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 4,
-			"Dexterity": 4,
-			"Endurance": 4
+			"Strength": 5,
+			"Dexterity": 2,
+			"Endurance": 5
 		},
 		"Enchantments":
 		{
@@ -105,12 +108,13 @@
 			"Physical Damage Minimum": 1,
 			"Physical Damage Maximum": 3,
 			"Attacks Per Second": 1.5,
-			"Critical Strike Chance": 0.1,
-			"Critical Strike Multiplier": 2
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 3
 		},
 		"Requirements":
 		{
 			"Level": 1,
+			"Strength": 2,
 			"Dexterity": 8
 		},
 		"Enchantments":
