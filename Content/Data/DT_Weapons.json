@@ -277,14 +277,14 @@
 		{
 			"Holy Damage Minimum": 1,
 			"Holy Damage Maximum": 3,
-			"Attacks Per Second": 1.6,
+			"Attacks Per Second": 1.2,
 			"Critical Strike Chance": 0.2,
 			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Faith": 5
+			"Faith": 7
 		},
 		"Enchantments":
 		{
@@ -298,17 +298,17 @@
 		"Type": "Crossbow",
 		"BaseStats":
 		{
-			"Physical Damage Minimum": 2,
+			"Physical Damage Minimum": 3,
 			"Physical Damage Maximum": 5,
 			"Attacks Per Second": 1,
 			"Critical Strike Chance": 0.2,
-			"Critical Strike Multiplier": 2
+			"Critical Strike Multiplier": 3
 		},
 		"Requirements":
 		{
 			"Level": 1,
 			"Strength": 3,
-			"Dexterity": 4,
+			"Dexterity": 3,
 			"Endurance": 2
 		},
 		"Enchantments":
@@ -327,15 +327,15 @@
 			"Physical Damage Maximum": 3,
 			"Attacks Per Second": 1.5,
 			"Critical Strike Chance": 0.05,
-			"Critical Strike Multiplier": 2,
+			"Critical Strike Multiplier": 1.5,
 			"Armour": 1,
 			"Block Chance": 0.2
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 3,
-			"Endurance": 3
+			"Strength": 2,
+			"Endurance": 5
 		},
 		"Enchantments":
 		{
@@ -350,15 +350,15 @@
 		"BaseStats":
 		{
 			"Physical Damage Minimum": 1,
-			"Physical Damage Maximum": 2,
-			"Attacks Per Second": 1.6,
-			"Critical Strike Chance": 0.1,
+			"Physical Damage Maximum": 3,
+			"Attacks Per Second": 1.2,
+			"Critical Strike Chance": 0.2,
 			"Critical Strike Multiplier": 2
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Intelligence": 5
+			"Intelligence": 7
 		},
 		"Enchantments":
 		{
