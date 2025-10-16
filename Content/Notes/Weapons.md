@@ -60,9 +60,12 @@
 - Add some built in scaling for spells?
 
 ## Weapon list
+(!!!PH!!!) Add tiers entry and tiers as a property on weapon? - Tiers (T1, T2, etc.) explain how good items in each category are in comparison to each other where T1 is the best. So for example if there are 5 base Two Handed Axes, T5 one will be the weakest/available the earliest and T1 would be the best but the hardest to access/use.
 ### Two Handed Axes (Medium Strength/Low Dexterity/Medium Endurance):
-- Lumber Axe (T1)
+- Lumber Axe (T2)
   - Basic axe used for chopping wood.
+- Military Axe (T1)
+  - Big axe used by regular infantry. Can chop up wooden barriers with relative ease.
 
 ### Two Handed Hammers (High Strength/High Endurance):
 - Sledgehammer (T1)
