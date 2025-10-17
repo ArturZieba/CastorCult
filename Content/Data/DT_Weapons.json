@@ -25,6 +25,32 @@
 		"ID": "Test"
 	},
 	{
+		"Name": "MilitaryAxe",
+		"WeaponName": "Military Axe",
+		"Rarity": "Common",
+		"Type": "Two Handed Axe",
+		"BaseStats":
+		{
+			"Physical Damage Minimum": 6,
+			"Physical Damage Maximum": 14,
+			"Attacks Per Second": 1.1,
+			"Critical Strike Chance": 0.2,
+			"Critical Strike Multiplier": 1.5,
+			"Armour Penetration": 1
+		},
+		"Requirements":
+		{
+			"Level": 5,
+			"Strength": 6,
+			"Dexterity": 4,
+			"Endurance": 7
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
 		"Name": "Sledgehammer",
 		"WeaponName": "Sledgehammer",
 		"Rarity": "Common",
