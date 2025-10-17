@@ -143,6 +143,10 @@
 - Float value indicating weapon's base Critical Strike Multiplier, a value by which the damage is multiplied when dealing a Critical Strike. Lower value means lower multiplier, higher value means higher multiplier. Damage is rounded down in case the resulting value is a fraction.
   - For example: For hit dealing 15 damage - 1.5 = 150% Critical Strike Multiplier (15 * 1.5 = 22.5 rounded down = 22), 2 = 200% Critical Strike Multiplier (15 * 2 = 30), 0.5 = 50% Critical Strike Multiplier (15 * 0.5 = 7.5 rounded down = 7), 1 = 100% Critical Strike Multiplier (15 * 1 = 15, no change). 
 
+### Armour Penetration
+- Integer value indicating how much Armour of the entity receiving hit is ignored when calculating damage. This cannot reduce the Armour below 0, it only ignores existing Armour.
+  - For example - Entity has 5 Armour and gets hit with 10 Physical Damage - 10 (Physical Damage) - 5 (Armour) = 5 Physical Damage Received, same hit for 10 Physical Damage but with 2 Armour Penetration - 10 (Physical Damage) - (5 - 2) (Armour - Armour Penetration) = 7 Physical Damage Received, same hit for 10 Physical Damage but with 99 Armour Penetration - 10 (Physical Damage) - (5 - 99 >= 0) = 10 Physical Damage Received as existing Armour is ignored, so only 5 Armour Penetration is needed to fully ignore entity's Armour.
+
 ### Armour
 - Integer value indicating Armour amount. Each point of armour reduces physcial damage by that amount, but to no less than 1.
   - For example: 1 Armour will reduce 10 physical damage hit to 9 (10 - 1 = 9), 11 Armour will reduce 10 physical damage hit to 1 (10 - 11 = -1, however physical damage cannot be reduced to less than 1 by Armour).
