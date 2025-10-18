@@ -2,6 +2,7 @@
 	{
 		"Name": "LumberAxe",
 		"WeaponName": "Lumber Axe",
+		"Tier": 2,
 		"Rarity": "Common",
 		"Type": "Two Handed Axe",
 		"BaseStats":
@@ -27,6 +28,7 @@
 	{
 		"Name": "MilitaryAxe",
 		"WeaponName": "Military Axe",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Two Handed Axe",
 		"BaseStats":
@@ -53,6 +55,7 @@
 	{
 		"Name": "Sledgehammer",
 		"WeaponName": "Sledgehammer",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Two Handed Hammer",
 		"BaseStats":
@@ -77,6 +80,7 @@
 	{
 		"Name": "BluntClaymore",
 		"WeaponName": "Blunt Claymore",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Two Handed Sword",
 		"BaseStats":
@@ -102,6 +106,7 @@
 	{
 		"Name": "RottedArbalest",
 		"WeaponName": "Rotted Arbalest",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Arbalest",
 		"BaseStats":
@@ -127,6 +132,7 @@
 	{
 		"Name": "Shortbow",
 		"WeaponName": "Shortbow",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Bow",
 		"BaseStats":
@@ -151,6 +157,7 @@
 	{
 		"Name": "BarnDoor",
 		"WeaponName": "Barn Door",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Greatshield",
 		"BaseStats":
@@ -177,6 +184,7 @@
 	{
 		"Name": "TatteredBanner",
 		"WeaponName": "Tattered Banner",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Icon",
 		"BaseStats":
@@ -201,6 +209,7 @@
 	{
 		"Name": "BranchStaff",
 		"WeaponName": "Branch Staff",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Staff",
 		"BaseStats":
@@ -225,6 +234,7 @@
 	{
 		"Name": "LumberHatchet",
 		"WeaponName": "Lumber Hatchet",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "One Handed Axe",
 		"BaseStats":
@@ -249,6 +259,7 @@
 	{
 		"Name": "BlacksmithHammer",
 		"WeaponName": "Blacksmith Hammer",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "One Handed Hammer",
 		"BaseStats":
@@ -273,6 +284,7 @@
 	{
 		"Name": "BluntLongsword",
 		"WeaponName": "Blunt Longsword",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "One Handed Sword",
 		"BaseStats":
@@ -297,6 +309,7 @@
 	{
 		"Name": "MustyBell",
 		"WeaponName": "Musty Bell",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Chime",
 		"BaseStats":
@@ -320,6 +333,7 @@
 	{
 		"Name": "OldCrossbow",
 		"WeaponName": "Old Crossbow",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Crossbow",
 		"BaseStats":
@@ -345,6 +359,7 @@
 	{
 		"Name": "WoodenTarge",
 		"WeaponName": "Wooden Targe",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Shield",
 		"BaseStats":
@@ -371,6 +386,7 @@
 	{
 		"Name": "TwigWand",
 		"WeaponName": "Twig Wand",
+		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Wand",
 		"BaseStats":

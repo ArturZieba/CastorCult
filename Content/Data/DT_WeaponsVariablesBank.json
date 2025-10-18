@@ -3,6 +3,7 @@
 		"Name": "WeaponsVariablesBank",
 		"WeaponName": [
 			"Lumber Axe",
+			"MilitaryAxe",
 			"Sledgehammer",
 			"Blunt Claymore",
 			"Rotted Arbalest",
@@ -17,6 +18,10 @@
 			"Old Crossbow",
 			"Wooden Targe",
 			"Twig Wand"
+		],
+		"Tier": [
+			1,
+			2
 		],
 		"Rarity": [
 			"Common",

@@ -11,9 +11,11 @@ struct FGenericWeaponInfo
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString  Name;
+	FString Name;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
-	FString  WeaponName;
+	FString WeaponName;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
+	int Tier;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	FString Rarity;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
@@ -36,6 +38,8 @@ struct FWeaponDataTable : public FTableRowBase
 	FString Name;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	FString  WeaponName;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
+	int Tier;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
 	FString Rarity;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")

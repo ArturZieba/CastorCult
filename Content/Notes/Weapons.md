@@ -59,68 +59,70 @@
 - Medium speed, variable low damage, physical damage type by default, medium criticals.
 - Add some built in scaling for spells?
 
+## Item tiers
+Tiers explain how good items in each category are in comparison to each other where Tier 1 is the best. So for example if there are 5 base Two Handed Axes, Tier 5 one will be the weakest/available the earliest and Tier 1 would be the best but the hardest to access/use.
+
 ## Weapon list
-(!!!PH!!!) Add tiers entry and tiers as a property on weapon? - Tiers (T1, T2, etc.) explain how good items in each category are in comparison to each other where T1 is the best. So for example if there are 5 base Two Handed Axes, T5 one will be the weakest/available the earliest and T1 would be the best but the hardest to access/use.
 ### Two Handed Axes (Medium Strength/Low Dexterity/Medium Endurance):
-- Lumber Axe (T2)
+- Lumber Axe (Tier 2)
   - Basic axe used for chopping wood.
-- Military Axe (T1)
+- Military Axe (Tier 1)
   - Big axe used by regular infantry. Can chop up wooden barriers with relative ease.
 
 ### Two Handed Hammers (High Strength/High Endurance):
-- Sledgehammer (T1)
+- Sledgehammer (Tier 1)
   - Hammer used to demolish walls and such.
 
 ### Two Handed Swords (Low Strength/Medium Dexterity/Low Endurance):
-- Blunt Claymore (T1)
+- Blunt Claymore (Tier 1)
   - Claymore with blunted blade used for training.
  
 ### Arbalests (High Strength/Low Dexterity/High Endurance):
-- Rotten Arbalest (T1)
+- Rotten Arbalest (Tier 1)
   - An old arbalest, seemingly exposed to the elements for a long time.
  
 ### Bows (Low Strength/High Dexterity):
-- Shortbow (T1)
+- Shortbow (Tier 1)
   - Simple bow used for training.
 
 ### Greatshields (High Strength/High Endurance):
-- Barn Door (T1)
+- Barn Door (Tier 1)
   - Door removed from hinges, used as a makeshift cover.
  
 ### Icons (High Faith/Low Endurance):
-- Tattered Banner (T1)
+- Tattered Banner (Tier 1)
   - An old banner, icon on the fabric seemingly lost to time.
 
 ### Staves (High Intelligence/Low Endurance):
-- Branch Staff (T1)
+- Branch Staff (Tier 1)
   - A simple tree branch that can be used as a magic catalyst.
 
 ### One Handed Axes (Medium Strength/Low Dexterity):
-- Lumber Hatchet (T1)
+- Lumber Hatchet (Tier 1)
   - Small hatchet used for cutting wood.
 
 ### One Handed Hammers (Medium Strength/Medium Endurance):
-- Blacksmith Hammer (T1)
+- Blacksmith Hammer (Tier 1)
   - A hammer used by blacksmiths to shape metal in forges.
 
 ### One Handed Swords (Low Strength/Medium Dexterity):
-- Blunt Longsword (T1)
+- Blunt Longsword (Tier 1)
   - Longsword with blunted blade used for training.
  
 ### Chimes (High Faith):
-- Musty Bell (T1)
+- Musty Bell (Tier 1)
   - Small old bell.
  
 ### Crossbows (Low Strength/Low Dexterity/Low Endurance):
-- Old Crossbow (T1)
+- Old Crossbow (Tier 1)
   - An old crossbow with a worn string.
  
 ### Shields (Low Strength/High Endurance):
-- Wooden Targe (T1)
+- Wooden Targe (Tier 1)
   - Few planks reinforced with nails and a handle, cut to a round shape.
 
 ### Wands (High Intelligence):
-- Twig Wand (T1)
+- Twig Wand (Tier 1)
   - A small twig used as a magic catalyst.
 
 ## Weapon base stats
