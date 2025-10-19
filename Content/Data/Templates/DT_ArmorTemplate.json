@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "NewRow",
-		"WeaponName": "Test",
+		"ArmorName": "Test",
 		"Tier": 1,
 		"Rarity": "Test",
 		"Type": "Test",

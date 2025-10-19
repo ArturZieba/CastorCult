@@ -7,7 +7,7 @@
 #include "WeaponsVariablesBank.generated.h"
 
 USTRUCT(BlueprintType)
-struct FWeaponsVariablesBankInfo
+struct FGenericWeaponsVariablesBankInfo
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
@@ -29,7 +29,7 @@ struct FWeaponsVariablesBankInfo
 };
 
 USTRUCT(BlueprintType)
-struct FWeaponVariablesBank : public FTableRowBase
+struct FOWeaponsVariablesBank : public FTableRowBase
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")

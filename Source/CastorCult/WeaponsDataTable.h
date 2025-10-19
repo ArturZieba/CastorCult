@@ -31,7 +31,7 @@ struct FGenericWeaponInfo
 }; 
 
 USTRUCT(BlueprintType)
-struct FWeaponDataTable : public FTableRowBase
+struct FOWeaponsDataTable : public FTableRowBase
 {
 	GENERATED_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Stats")
