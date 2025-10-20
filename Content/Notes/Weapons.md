@@ -59,7 +59,7 @@
 - Medium speed, variable low damage, physical damage type by default, medium criticals.
 - Add some built in scaling for spells?
 
-## Item tiers
+## (!!!PH!!!)Item tiers
 Tiers explain how good items in each category are in comparison to each other where Tier 1 is the best. So for example if there are 5 base Two Handed Axes, Tier 5 one will be the weakest/available the earliest and Tier 1 would be the best but the hardest to access/use.
 
 ## Weapon list
@@ -160,7 +160,7 @@ Tiers explain how good items in each category are in comparison to each other wh
 
 ## Weapon requirements
 ### Level
-- An experience level cap to prevent low level classes from using high stat items (Maybe not needed with Attribute distribution?)
+- An experience level cap to prevent low level classes from using high stat items (!!!PH!!!Maybe not needed with Attribute distribution?)
 
 ### Strength
 - Integer value indicating Strength Attribute required for picking up and using bigger weapons, mostly focused on melee.
