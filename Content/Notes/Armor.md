@@ -4,7 +4,55 @@
 - !!!PH!!!
 
 ## Armor types
-### !!!PH!!!
+### Helmet (High Strength/High Endurance)
+- !!!PH!!!
+
+### Mask (Medium Endurance)
+- !!!PH!!!
+
+### Veil (High Faith/Low Endurance)
+- !!!PH!!!
+
+### Circlet (High Intelligence/Low Endurance)
+- !!!PH!!!
+
+### Breastplate (High Strength/High Endurance)
+- !!!PH!!!
+
+### Jacket (Medium Endurance)
+- !!!PH!!!
+
+### Robe (High Faith/Low Endurance)
+- !!!PH!!!
+
+### Tunic (High Intelligence/Low Endurance)
+- !!!PH!!!
+
+### Gauntlets (High Strength/High Endurance)
+- !!!PH!!!
+
+### Mitts (Medium Endurance)
+- !!!PH!!!
+
+### Manchettes (High Faith/Low Endurance)
+- !!!PH!!!
+
+### Bracelets (High Intelligence/Low Endurance)
+- !!!PH!!!
+
+### Sabatons (High Strength/High Endurance)
+- !!!PH!!!
+
+### Boots (Medium Endurance)
+- !!!PH!!!
+
+### Sandals (High Faith/Low Endurance)
+- !!!PH!!!
+
+### Slippers (High Intelligence/Low Endurance)
+- !!!PH!!!
+
+### Relics (Variable attributes)
 - !!!PH!!!
 
 ## (!!!PH!!!)Item tiers
