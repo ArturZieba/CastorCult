@@ -11,8 +11,22 @@
 			"Test1"
 		],
 		"Type": [
-			"Test",
-			"Test1"
+			"Helmet",
+			"Mask",
+			"Veil",
+			"Circlet",
+			"Breastplate",
+			"Jacket",
+			"Robe",
+			"Tunic",
+			"Gauntlets",
+			"Mitts",
+			"Manchettes",
+			"Bracelets",
+			"Boots",
+			"Sandals",
+			"Slippers",
+			"Relics"
 		],
 		"BaseStats": [
 			"Test",
