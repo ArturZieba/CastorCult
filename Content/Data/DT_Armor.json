@@ -1,0 +1,25 @@
+[
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Test",
+		"Type": "Test",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Enchantments":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"ID": "Test"
+	}
+]
