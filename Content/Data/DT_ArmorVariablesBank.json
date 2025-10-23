@@ -1,0 +1,44 @@
+[
+	{
+		"Name": "NewRow",
+		"ArmorName": [
+			"Test",
+			"Test1"
+		],
+		"Tier": [ 1, 2 ],
+		"Rarity": [
+			"Test",
+			"Test1"
+		],
+		"Type": [
+			"Helmet",
+			"Mask",
+			"Veil",
+			"Circlet",
+			"Breastplate",
+			"Jacket",
+			"Robe",
+			"Tunic",
+			"Gauntlets",
+			"Mitts",
+			"Manchettes",
+			"Bracelets",
+			"Boots",
+			"Sandals",
+			"Slippers",
+			"Relics"
+		],
+		"BaseStats": [
+			"Test",
+			"Test1"
+		],
+		"Requirements": [
+			"Test",
+			"Test1"
+		],
+		"Enchantments": [
+			"Test",
+			"Test1"
+		]
+	}
+]
