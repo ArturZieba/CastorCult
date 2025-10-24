@@ -52,7 +52,7 @@
 ### Slippers (High Intelligence/Low Endurance)
 - !!!PH!!!
 
-### Relics (Variable attributes)
+### Relic (Variable Attributes)
 - !!!PH!!!
 
 ## (!!!PH!!!)Item tiers
