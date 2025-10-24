@@ -3,8 +3,8 @@
 		"Name": "NewRow",
 		"ArmorName": "Test",
 		"Tier": 1,
-		"Rarity": "Test",
-		"Type": "Test",
+		"Rarity": "Common",
+		"Type": "Helmet",
 		"BaseStats":
 		{
 			"Test": 1,
@@ -12,13 +12,358 @@
 		},
 		"Requirements":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Level": 1,
+			"Strength": 1,
+			"Endurance": 1
 		},
 		"Enchantments":
 		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Mask",
+		"BaseStats":
+		{
 			"Test": 1,
 			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Veil",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Faith": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+		{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Circlet",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Intelligence": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Breastplate",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Jacket",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Robe",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Faith": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+		{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Tunic",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Intelligence": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Gauntlets",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Mitts",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Manchettes",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Faith": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+		{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Bracelets",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Intelligence": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Sabatons",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Strength": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Boots",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Sandals",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Faith": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Slippers",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1,
+			"Intelligence": 1,
+			"Endurance": 1
+		},
+		"Enchantments":
+		{
+		},
+		"ID": "Test"
+	},
+	{
+		"Name": "NewRow",
+		"ArmorName": "Test",
+		"Tier": 1,
+		"Rarity": "Common",
+		"Type": "Relic",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Requirements":
+		{
+			"Level": 1
+		},
+		"Enchantments":
+		{
 		},
 		"ID": "Test"
 	}
