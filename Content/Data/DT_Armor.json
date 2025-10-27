@@ -1,20 +1,20 @@
 [
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "RustedCasque",
+		"ArmorName": "Rusted Casque",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Helmet",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1,
+			"Block Chance": 0.05
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 1,
-			"Endurance": 1
+			"Strength": 4,
+			"Endurance": 4
 		},
 		"Enchantments":
 		{
