@@ -1,14 +1,17 @@
 [
 	{
-		"Name": "NewRow",
+		"Name": "ArmorVariablesBank",
 		"ArmorName": [
-			"Test",
-			"Test1"
+			"Rusted Casque"
 		],
-		"Tier": [ 1, 2 ],
+		"Tier": [ 
+			1 
+		],
 		"Rarity": [
-			"Test",
-			"Test1"
+			"Common",
+			"Enchanted",
+			"Infused",
+			"Mythic"
 		],
 		"Type": [
 			"Helmet",
@@ -30,12 +33,15 @@
 			"Relics"
 		],
 		"BaseStats": [
-			"Test",
-			"Test1"
+			"Armour",
+			"Block Chance"
 		],
 		"Requirements": [
-			"Test",
-			"Test1"
+			"Level",
+			"Strength",
+			"Faith",
+			"Intelligence",
+			"Endurance"
 		],
 		"Enchantments": [
 			"Test",
