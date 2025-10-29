@@ -1,7 +1,13 @@
 # Armor
 ## Related files
-### !!!PH!!!
-- !!!PH!!!
+### ArmorDataTable.cpp/ArmorDataTable.h
+- Contains struct for the DT_Armor.uasset.
+### ArmorVariablesBank.cpp/ArmorVariablesBank.h
+- Contains struct for the DT_ArmorVariablesBank.uasset.
+### DT_Armor.json/DT_Armor.uasset
+- Contains a list of all armor pieces with all of their asociated variables.
+### DT_ArmorVariablesBank.json/DT_ArmorVariablesBank.uasset
+- Contains a list of all variables that can be used in armor pieces.
 
 ## Armor types
 ### Helmet (High Strength/High Endurance)
