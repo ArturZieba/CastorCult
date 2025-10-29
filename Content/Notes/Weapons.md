@@ -5,9 +5,9 @@
 ### WeaponsVariablesBank.cpp/WeaponsVariablesBank.h
 - Contains struct for the DT_WeaponsVariablesBank.uasset.
 ### DT_Weapons.json/DT_Weapons.uasset
-- Contains a list of weapons with all of their asociated variables.
+- Contains a list of all weapons with all of their asociated variables.
 ### DT_WeaponsVariablesBank.json/DT_WeaponsVariablesBank.uasset
-- Contains a list of variables that can be used in weapons.
+- Contains a list of all variables that can be used in weapons.
 
 ## Weapon types
 ### Two Handed Axe (Medium Strength/Low Dexterity/Medium Endurance):
