@@ -13,8 +13,8 @@
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 4,
-			"Endurance": 4
+			"Strength": 2,
+			"Endurance": 2
 		},
 		"Enchantments":
 		{
@@ -87,21 +87,21 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "RustedCuirass",
+		"ArmorName": "Rusted Cuirass",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Breastplate",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 3,
+			"Block Chance": 0.1
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 1,
-			"Endurance": 1
+			"Strength": 5,
+			"Endurance": 5
 		},
 		"Enchantments":
 		{
@@ -174,21 +174,21 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "IronGloves",
+		"ArmorName": "Iron Gloves",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Gauntlets",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1,
+			"Block Chance": 0.06
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 1,
-			"Endurance": 1
+			"Strength": 3,
+			"Endurance": 3
 		},
 		"Enchantments":
 		{
@@ -261,21 +261,21 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "IronShinplates",
+		"ArmorName": "Iron Shinplates",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Sabatons",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 2,
+			"Block Chance": 0.08
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Strength": 1,
-			"Endurance": 1
+			"Strength": 4,
+			"Endurance": 4
 		},
 		"Enchantments":
 		{
