@@ -11,10 +11,10 @@
 
 ## Armor types
 ### Helmet (High Strength/High Endurance)
-- Head slot, high armor, low block chance.
+- Head slot, low armor, low block chance.
 
 ### Mask (Medium Endurance)
-- Head slot, !!!PH!!!
+- Head slot, low armor.
 
 ### Veil (High Faith/Low Endurance)
 - Head slot, !!!PH!!!
@@ -23,10 +23,10 @@
 - Head slot, !!!PH!!!
 
 ### Breastplate (High Strength/High Endurance)
-- Chest slot, high armor, low block chance.
+- Chest slot, high armor, medium block chance.
 
 ### Jacket (Medium Endurance)
-- Chest slot, !!!PH!!!
+- Chest slot, medium armor.
 
 ### Robe (High Faith/Low Endurance)
 - Chest slot, !!!PH!!!
@@ -35,10 +35,10 @@
 - Chest slot, !!!PH!!!
 
 ### Gauntlets (High Strength/High Endurance)
-- Hands slot, high armor, low block chance.
+- Hands slot, low armor, low block chance.
 
 ### Mitts (Medium Endurance)
-- Hands slot, !!!PH!!!
+- Hands slot, low armor.
 
 ### Manchettes (High Faith/Low Endurance)
 - Hands slot, !!!PH!!!
@@ -47,10 +47,10 @@
 - Hands slot, !!!PH!!!
 
 ### Sabatons (High Strength/High Endurance)
-- Boots slot, high armor, low block chance.
+- Boots slot, low armor, low block chance.
 
 ### Boots (Medium Endurance)
-- Boots slot, !!!PH!!!
+- Boots slot, low armor.
 
 ### Sandals (High Faith/Low Endurance)
 - Boots slot, !!!PH!!!
