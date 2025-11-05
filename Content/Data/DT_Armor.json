@@ -22,20 +22,19 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "Bandana",
+		"ArmorName": "Bandana",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Mask",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Endurance": 1
+			"Endurance": 2
 		},
 		"Enchantments":
 		{
@@ -109,20 +108,19 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "LeatherJacket",
+		"ArmorName": "Leather Jacket",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Jacket",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 2
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Endurance": 1
+			"Endurance": 3
 		},
 		"Enchantments":
 		{
@@ -196,20 +194,19 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "LeatherGloves",
+		"ArmorName": "Leather Gloves",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Mitts",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Endurance": 1
+			"Endurance": 2
 		},
 		"Enchantments":
 		{
@@ -283,20 +280,19 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "LeatherBoots",
+		"ArmorName": "Leather Boots",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Boots",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1
 		},
 		"Requirements":
 		{
 			"Level": 1,
-			"Endurance": 1
+			"Endurance": 2
 		},
 		"Enchantments":
 		{
