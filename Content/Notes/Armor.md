@@ -79,7 +79,8 @@
 - !!!PH!!!
 
 ### Breastplate (High Strength/High Endurance)
-- !!!PH!!!
+- Rusted Cuirass (Tier 1)
+  - A piece of rusted bent plate covering the chest. Better than nothing.
 
 ### Jacket (Medium Endurance)
 - !!!PH!!!
@@ -91,7 +92,8 @@
 - !!!PH!!!
 
 ### Gauntlets (High Strength/High Endurance)
-- !!!PH!!!
+- Iron Gloves (Tier 1)
+  - A pair of raw iron gloves.
 
 ### Mitts (Medium Endurance)
 - !!!PH!!!
@@ -103,7 +105,8 @@
 - !!!PH!!!
 
 ### Sabatons (High Strength/High Endurance)
-- !!!PH!!!
+- Iron Shinplates (Tier 1)
+  - A pair of small iron plates bound around the shins for protection.
 
 ### Boots (Medium Endurance)
 - !!!PH!!!
