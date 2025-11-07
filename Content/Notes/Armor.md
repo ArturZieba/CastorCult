@@ -70,7 +70,8 @@
   - An old metal helmet, getting a bit rusty.
 
 ### Mask (Medium Endurance)
-- !!!PH!!!
+- Bandana (Tier 1)
+  - A simple folded piece of cloth.
 
 ### Veil (High Faith/Low Endurance)
 - !!!PH!!!
@@ -83,7 +84,8 @@
   - A piece of rusted bent plate covering the chest. Better than nothing.
 
 ### Jacket (Medium Endurance)
-- !!!PH!!!
+- Leather Jacket (Tier 1)
+  - Old worn jacket made from animal leather.
 
 ### Robe (High Faith/Low Endurance)
 - !!!PH!!!
@@ -96,7 +98,8 @@
   - A pair of raw iron gloves.
 
 ### Mitts (Medium Endurance)
-- !!!PH!!!
+- Leather Gloves (Tier 1)
+  - A pair of rough leather gloves.
 
 ### Manchettes (High Faith/Low Endurance)
 - !!!PH!!!
@@ -109,7 +112,8 @@
   - A pair of small iron plates bound around the shins for protection.
 
 ### Boots (Medium Endurance)
-- !!!PH!!!
+- Leather Boots (Tier 1)
+  - Worn boots made from animal leather.
 
 ### Sandals (High Faith/Low Endurance)
 - !!!PH!!!
