@@ -44,7 +44,12 @@
 
 ## Combat Stats
 ### Maximum Life
-- !!!PH!!!
+- Integer value indicating the Maximum Life points. 
+
+### Current Life
+- Integer value indicating the Current Life points. Reaching 0 or less causes the player to die.
+- (!!!PH!!!) What happens on death? Experience loss or something more?
+- (!!!PH!!!) Allow to go below 0 once to see how much the player was overkilled.
 
 ### Armour
 - Integer value indicating Armour amount. Each point of armour reduces physcial damage by that amount, but to no less than 1.
