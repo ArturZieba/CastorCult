@@ -42,15 +42,14 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "TornVeil",
+		"ArmorName": "Torn Veil",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Veil",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Additional Skill Healing": 1
 		},
 		"Requirements":
 		{
@@ -128,15 +127,14 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "TatteredRobe",
+		"ArmorName": "Tattered Robe",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Robe",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Additional Skill Healing": 3
 		},
 		"Requirements":
 		{
@@ -214,15 +212,14 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "TornManchettes",
+		"ArmorName": "Torn Manchettes",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Manchettes",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Additional Skill Healing": 1
 		},
 		"Requirements":
 		{
@@ -300,15 +297,14 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "WornSandals",
+		"ArmorName": "Worn Sandals",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Sandals",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Additional Skill Healing": 2
 		},
 		"Requirements":
 		{
