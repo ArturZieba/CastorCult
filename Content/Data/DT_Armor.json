@@ -63,15 +63,15 @@
 		"ID": "Test"
 	},
 		{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "OldCirclet",
+		"ArmorName": "Old Circlet",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Circlet",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1,
+			"Additional Skill Damage": 1
 		},
 		"Requirements":
 		{
@@ -148,15 +148,14 @@
 		"ID": "Test"
 	},
 		{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "DampTunic",
+		"ArmorName": "Damp Tunic",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Tunic",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Additional Skill Damage": 3
 		},
 		"Requirements":
 		{
@@ -233,15 +232,15 @@
 		"ID": "Test"
 	},
 		{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "OldBracelets",
+		"ArmorName": "Old Bracelets",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Bracelets",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1,
+			"Additional Skill Damage": 1
 		},
 		"Requirements":
 		{
@@ -318,15 +317,14 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "TornSlippers",
+		"ArmorName": "Torn Slippers",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Slippers",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Additional Skill Damage": 1
 		},
 		"Requirements":
 		{
