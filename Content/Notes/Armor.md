@@ -74,10 +74,12 @@
   - A simple folded piece of cloth.
 
 ### Veil (High Faith/Low Endurance)
-- !!!PH!!!
+- Torn Veil (Tier 1)
+  - Veil covering the face, but a little worse for wear.
 
 ### Circlet (High Intelligence/Low Endurance)
-- !!!PH!!!
+- Old Circlet (Tier 1)
+  - Copper circlet covered with patina.
 
 ### Breastplate (High Strength/High Endurance)
 - Rusted Cuirass (Tier 1)
@@ -88,10 +90,12 @@
   - Old worn jacket made from animal leather.
 
 ### Robe (High Faith/Low Endurance)
-- !!!PH!!!
+- Tattered Robe (Tier 1)
+  - Warm robe, tattered over time.
 
 ### Tunic (High Intelligence/Low Endurance)
-- !!!PH!!!
+- Damp Tunic (Tier 1)
+  - Tunic which seemingly was stored in a humid place.
 
 ### Gauntlets (High Strength/High Endurance)
 - Iron Gloves (Tier 1)
@@ -102,10 +106,12 @@
   - A pair of rough leather gloves.
 
 ### Manchettes (High Faith/Low Endurance)
-- !!!PH!!!
+- Torn Manchettes (Tier 1)
+  - Old pair of torn manchettes.
 
 ### Bracelets (High Intelligence/Low Endurance)
-- !!!PH!!!
+- Old Bracelets (Tier 1)
+  - Copper Bracelets almost completely covered in patina.
 
 ### Sabatons (High Strength/High Endurance)
 - Iron Shinplates (Tier 1)
@@ -116,10 +122,12 @@
   - Worn boots made from animal leather.
 
 ### Sandals (High Faith/Low Endurance)
-- !!!PH!!!
+- Worn Sandals (Tier 1)
+  - Better than walking barefoot.
 
 ### Slippers (High Intelligence/Low Endurance)
-- !!!PH!!!
+- Torn Slippers (Tier 1)
+  - They used to be comfortable once.
 
 ### Relic (Variable Attributes)
 - !!!PH!!!
