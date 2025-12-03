@@ -35,7 +35,8 @@
 		"BaseStats": [
 			"Armour",
 			"Block Chance",
-			"Additional Skill Healing"
+			"Additional Skill Healing",
+			"Additional Skill Damage"
 		],
 		"Requirements": [
 			"Level",
