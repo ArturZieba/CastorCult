@@ -338,15 +338,14 @@
 		"ID": "Test"
 	},
 	{
-		"Name": "NewRow",
-		"ArmorName": "Test",
+		"Name": "LuckyPan",
+		"ArmorName": "Lucky Pan",
 		"Tier": 1,
 		"Rarity": "Common",
 		"Type": "Relic",
 		"BaseStats":
 		{
-			"Test": 1,
-			"Test1": 2
+			"Armour": 1
 		},
 		"Requirements":
 		{
