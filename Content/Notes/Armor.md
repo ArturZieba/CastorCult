@@ -130,7 +130,8 @@
   - They used to be comfortable once.
 
 ### Relic (Variable Attributes)
-- !!!PH!!!
+- Lucky Pan (Tier 1)
+  - Seems to be just a hunk of iron with a handle, but you can feel it is far more than that.
 
 ## Armor base stats
 ### Armour
