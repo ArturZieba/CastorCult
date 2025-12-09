@@ -26,27 +26,27 @@
 ### Strength
 - Integer value indicating explosive strength of the character, mostly related to using bigger weapons and heavier armor.
   - (!!!PH!!!) Small bonus per point?
-- Base value: (!!!PH!!!)
+- Base value: 1
 
 ### Dexterity
 - Integer value indicating !!!PH!!!
   - (!!!PH!!!) Small bonus per point?
-- Base value: (!!!PH!!!)
+- Base value: 1
 
 ### Intelligence
 - Integer value indicating !!!PH!!!
   - (!!!PH!!!) Small bonus per point?
-- Base value: (!!!PH!!!)
+- Base value: 1
 
 ### Faith
 - Integer value indicating !!!PH!!!
   - (!!!PH!!!) Small bonus per point?
-- Base value: (!!!PH!!!)
+- Base value: 1
 
 ### Endurance
 - Integer value indicating !!!PH!!!
   - (!!!PH!!!) Maximum Life per point?
-- Base value: (!!!PH!!!)
+- Base value: 1
 
 ## Combat Stats
 ### Maximum Life
@@ -72,6 +72,7 @@
 
 ### Life Regeneration
 - Integer value indicating (!!!PH!!!)
+- Base value: 0
 
 ### Physical Damage Minimum/Maximum
 - Integer value indicating Minimum and Maximum damage roll range of base Physical Damage. Armour mitigates a portion of Physical Damage.
