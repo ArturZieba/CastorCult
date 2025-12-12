@@ -2,7 +2,23 @@
 	{
 		"Name": "ArmorVariablesBank",
 		"ArmorName": [
-			"Rusted Casque"
+			"Rusted Casque",
+			"Bandana",
+			"TornVeil",
+			"OldCirclet",
+			"RustedCuirass",
+			"LeatherJacket",
+			"TatteredRobe",
+			"DampTunic",
+			"IronGloves",
+			"LeatherGloves",
+			"TornManchettes",
+			"OldBracelets",
+			"IronShinplates",
+			"LeatherBoots",
+			"WornSandals",
+			"TornSlippers",
+			"LuckyPan"
 		],
 		"Tier": [ 
 			1 
@@ -46,8 +62,9 @@
 			"Endurance"
 		],
 		"Enchantments": [
-			"Test",
-			"Test1"
+			"Additional Maximum Life",
+			"Additional Armour",
+			"Additional Block Chance"
 		]
 	}
 ]
