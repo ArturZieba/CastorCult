@@ -93,7 +93,7 @@
 - Float value indicating a chance to deal a Critical Strike which deals damage multiplied by total Critical Strike Multiplier. Lower value means lower chance, higher value means higher chance, but no more than 1.
   - For example: 0 = 0% chance for Critical Strike (no chance for Critical Strike), 0.1 = 10% chance for Critical Strike (on average 1 in 10 hits are Critical Strikes), 1 = 100% chance for Critical Strike (every hit is a Critical Strike).
   - (!!!PH!!!) Random geneneration to be determined but expected to have no entropy/safeguards etc., so on 10% chance it would be possible to go more than 10 hits with no Critical Strike or have more than 1 Critical Srike over 10 hits.
-- Base value: 1.0
+- Base value: 0.1
 - Base value will be overwritten by a weapon.
 
 ### Critical Strike Multiplier
