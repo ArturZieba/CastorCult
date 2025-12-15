@@ -1,0 +1,25 @@
+[
+	{
+		"Name": "NewRow",
+		"EnemyName": "Test",
+		"Level": 1,
+		"Rarity": "Test",
+		"Type": "Test",
+		"BaseStats":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+		"Rewards":
+		{
+			"Test": 1,
+			"Test1": 2
+		},
+    "SpawnWeights":
+    {
+      "Test": 1,
+			"Test1": 2
+    },
+		"ID": "Test"
+	}
+]
