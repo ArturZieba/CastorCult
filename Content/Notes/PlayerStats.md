@@ -29,17 +29,19 @@
 - Base value: 1
 
 ### Dexterity
-- Integer value indicating !!!PH!!!
+- Integer value indicating coordination and swiftness of the character, mostly related to using quicker and precision-related weapons.
   - (!!!PH!!!) Small bonus per point?
 - Base value: 1
 
 ### Intelligence
-- Integer value indicating !!!PH!!!
+- Integer value indicating intelect of the character and ability to use spells, mostly related to using Skill Damage related armor and weapons.
+  - (!!!PH!!!) Adjust related gear stats in DT. 
   - (!!!PH!!!) Small bonus per point?
 - Base value: 1
 
 ### Faith
 - Integer value indicating !!!PH!!!
+  - (!!!PH!!!) Adjust related gear stats in DT. 
   - (!!!PH!!!) Small bonus per point?
 - Base value: 1
 
