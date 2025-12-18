@@ -193,7 +193,8 @@
 			"Holy Damage Maximum": 5,
 			"Attacks Per Second": 1,
 			"Critical Strike Chance": 0.2,
-			"Critical Strike Multiplier": 1.5
+			"Critical Strike Multiplier": 1.5,
+			"Additional Skill Healing": 4
 		},
 		"Requirements":
 		{
@@ -218,7 +219,8 @@
 			"Physical Damage Maximum": 6,
 			"Attacks Per Second": 1,
 			"Critical Strike Chance": 0.1,
-			"Critical Strike Multiplier": 2
+			"Critical Strike Multiplier": 2,
+			"Additional Skill Damage": 4
 		},
 		"Requirements":
 		{
@@ -318,7 +320,8 @@
 			"Holy Damage Maximum": 3,
 			"Attacks Per Second": 1.2,
 			"Critical Strike Chance": 0.2,
-			"Critical Strike Multiplier": 2
+			"Critical Strike Multiplier": 2,
+			"Additional Skill Healing": 2
 		},
 		"Requirements":
 		{
@@ -395,7 +398,8 @@
 			"Physical Damage Maximum": 3,
 			"Attacks Per Second": 1.2,
 			"Critical Strike Chance": 0.2,
-			"Critical Strike Multiplier": 2
+			"Critical Strike Multiplier": 2,
+			"Additional Skill Damage": 2
 		},
 		"Requirements":
 		{
