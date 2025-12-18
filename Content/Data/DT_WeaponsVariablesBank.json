@@ -56,7 +56,9 @@
 			"Critical Strike Multiplier",
 			"Armour Penetration",
 			"Armour",
-			"Block Chance"
+			"Block Chance",
+			"Additional Skill Damage",
+			"Additional Skill Healing"
 		],
 		"Requirements": [
 			"Level",
