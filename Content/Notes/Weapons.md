@@ -29,12 +29,10 @@
 - Very slow, consistent medium damage, physical damage type by default, low criticals, implicit defensive stats (block chance, armour).
  
 ### Icon (High Faith/Low Endurance):
-- Slow, consistent medium damage, holy damage type by default, medium criticals.
-- Add some built in scaling for buff/healing?
+- Slow, consistent medium damage, holy damage type by default, medium criticals, additional skill healing.
 
 ### Staff (High Intelligence/Low Endurance):
-- Slow, variable medium damage, physical damage type by default, medium criticals.
-- Add some built in scaling for spells?
+- Slow, variable medium damage, physical damage type by default, medium criticals, additional skill damage.
 
 ### One Handed Axe (Medium Strength/Low Dexterity):
 - Fast, variable medium damage, physical damage type by default, medium criticals.
@@ -46,8 +44,7 @@
 - Very fast, consistent low damage, physical damage type by default, high criticals.
  
 ### Chime (High Faith):
-- Medium speed, consistent low damage, holy damage type by default, medium criticals.
-- Add some built in scaling for buff/healing?
+- Medium speed, consistent low damage, holy damage type by default, medium criticals, additional skill healing.
  
 ### Crossbow (Low Strength/Low Dexterity/Low Endurance):
 - Slow, consistent high damage, physical damage type by default, high criticals.
@@ -56,8 +53,7 @@
 - Very slow, consistent low damage, low criticals, implicit defensive stats (block chance, armour).
 
 ### Wand (High Intelligence):
-- Medium speed, variable low damage, physical damage type by default, medium criticals.
-- Add some built in scaling for spells?
+- Medium speed, variable low damage, physical damage type by default, medium criticals, additional skill damage.
 
 ## (!!!PH!!!)Item tiers
 Tiers explain how good items in each category are in comparison to each other where Tier 1 is the best. So for example if there are 5 base Two Handed Axes, Tier 5 one will be the weakest/available the earliest and Tier 1 would be the best but the hardest to access/use.
