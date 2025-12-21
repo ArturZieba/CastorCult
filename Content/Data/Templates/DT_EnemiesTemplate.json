@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "NewRow",
+		"Name": "Test",
 		"EnemyName": "Test",
 		"Level": 1,
 		"Rarity": "Test",
@@ -15,11 +15,11 @@
 			"Test": 1,
 			"Test1": 2
 		},
-    "SpawnWeights":
-    {
-      "Test": 1,
+		"SpawnWeights":
+		{
+			"Test": 1,
 			"Test1": 2
-    },
+		},
 		"ID": "Test"
 	}
 ]
