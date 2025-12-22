@@ -1,0 +1,25 @@
+[
+	{
+		"Name": "Test",
+		"EnemyName": "An Enemy",
+		"Level": 1,
+		"Rarity": "Common",
+		"Type": "Humanoid",
+		"BaseStats":
+		{
+			"Life": 10,
+			"Armour": 1
+		},
+		"Rewards":
+		{
+			"Experience": 1,
+			"Gold": 3
+		},
+		"SpawnWeights":
+		{
+			"Forest": 1,
+			"Lake": 2
+		},
+		"ID": "Test"
+	}
+]
