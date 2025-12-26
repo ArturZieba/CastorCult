@@ -110,7 +110,7 @@
 - Base value: 0
 
 ### Skill Cooldown
-- !!!PH!!!
+- Float value indicating !!!PH!!!
 - Base value: (!!!PH!!!)
 
 ### PH Sources of stats - Attributes from levelling, gear, anything else?
