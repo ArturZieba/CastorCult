@@ -1,0 +1,30 @@
+[
+	{
+		"Name": "Test",
+		"EnemyName": [
+			"Test1",
+			"Test2"
+		],
+		"Level": [ 1, 2 ],
+		"Rarity": [
+			"Test1",
+			"Test2"
+		],
+		"Type": [
+			"Test1",
+			"Test2"
+		],
+		"BaseStats": [
+			"Test1",
+			"Test2"
+		],
+		"Rewards": [
+			"Test1",
+			"Test2"
+		],
+		"SpawnWeights": [
+			"Test1",
+			"Test2"
+		]
+	}
+]
